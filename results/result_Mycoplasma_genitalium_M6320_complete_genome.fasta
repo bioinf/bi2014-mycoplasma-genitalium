@@ -1,0 +1,53 @@
+# TBLASTN 2.2.28+
+# Query: p01
+# Database: db_Mycoplasma_genitalium_M6320_complete_genome.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+p01	gi|402551784|ref|NC_018497.1|	98.27	1331	23	0	1	1331	73686	77678	0.0	2277
+p01	gi|402551784|ref|NC_018497.1|	22.15	641	446	18	277	881	573938	572067	1e-17	84.0
+p01	gi|402551784|ref|NC_018497.1|	35.29	85	52	2	1224	1307	571031	570783	2e-07	49.7
+p01	gi|402551784|ref|NC_018497.1|	31.46	89	57	1	1109	1197	107504	107758	1.5	27.3
+p01	gi|402551784|ref|NC_018497.1|	40.00	30	18	0	643	672	213110	213021	5.6	25.4
+# TBLASTN 2.2.28+
+# Query: p02
+# Database: db_Mycoplasma_genitalium_M6320_complete_genome.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 3 hits found
+p02	gi|402551784|ref|NC_018497.1|	96.91	162	5	0	1	162	141577	142062	1e-96	 305
+p02	gi|402551784|ref|NC_018497.1|	45.83	24	13	0	54	77	22656	22727	7.1	21.6
+p02	gi|402551784|ref|NC_018497.1|	87.50	8	1	0	29	36	392477	392500	7.7	21.6
+# TBLASTN 2.2.28+
+# Query: p03
+# Database: db_Mycoplasma_genitalium_M6320_complete_genome.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 12 hits found
+p03	gi|402551784|ref|NC_018497.1|	98.99	198	2	0	1	198	320835	321428	4e-119	 371
+p03	gi|402551784|ref|NC_018497.1|	37.50	32	20	0	2	33	134796	134891	0.044	28.9
+p03	gi|402551784|ref|NC_018497.1|	62.50	16	6	0	2	17	119432	119479	0.15	27.3
+p03	gi|402551784|ref|NC_018497.1|	61.11	18	7	0	3	20	10580	10633	0.53	25.4
+p03	gi|402551784|ref|NC_018497.1|	55.00	20	8	1	5	23	413554	413495	0.64	25.4
+p03	gi|402551784|ref|NC_018497.1|	46.67	15	8	0	4	18	453322	453278	0.85	25.0
+p03	gi|402551784|ref|NC_018497.1|	52.63	19	9	0	2	20	576676	576620	0.89	25.0
+p03	gi|402551784|ref|NC_018497.1|	61.11	18	7	0	85	102	364204	364151	1.6	24.3
+p03	gi|402551784|ref|NC_018497.1|	45.00	20	11	0	3	22	457200	457259	1.7	23.9
+p03	gi|402551784|ref|NC_018497.1|	45.00	20	11	0	3	22	355009	355068	1.8	23.9
+p03	gi|402551784|ref|NC_018497.1|	56.25	16	7	0	5	20	577887	577840	3.1	23.1
+p03	gi|402551784|ref|NC_018497.1|	44.44	18	10	0	3	20	414091	414038	7.3	21.9
+# TBLASTN 2.2.28+
+# Query: p04
+# Database: db_Mycoplasma_genitalium_M6320_complete_genome.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 2 hits found
+p04	gi|402551784|ref|NC_018497.1|	98.95	572	6	0	1	572	535761	534046	0.0	1108
+p04	gi|402551784|ref|NC_018497.1|	32.26	62	17	3	205	241	105579	105764	9.1	23.5
+# TBLASTN 2.2.28+
+# Query: p05
+# Database: db_Mycoplasma_genitalium_M6320_complete_genome.fasta
+# Fields: query id, subject id, % identity, alignment length, mismatches, gap opens, q. start, q. end, s. start, s. end, evalue, bit score
+# 5 hits found
+p05	gi|402551784|ref|NC_018497.1|	99.03	1751	17	0	33	1783	575969	570717	0.0	3274
+p05	gi|402551784|ref|NC_018497.1|	23.14	1128	677	39	707	1749	74499	77567	5e-21	95.5
+p05	gi|402551784|ref|NC_018497.1|	37.50	56	29	1	1529	1584	286844	286993	0.026	33.5
+p05	gi|402551784|ref|NC_018497.1|	28.16	103	60	4	313	410	452506	452225	5.5	26.2
+p05	gi|402551784|ref|NC_018497.1|	31.15	61	36	2	1271	1326	326811	326632	6.3	25.8
+# BLAST processed 5 queries
