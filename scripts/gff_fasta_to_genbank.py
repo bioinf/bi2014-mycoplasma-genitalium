@@ -1,3 +1,5 @@
+#1/usr/bin/env python
+
 __author__ = 'nikita_kartashov'
 
 """Convert a GFF and associated FASTA file into GenBank format.
