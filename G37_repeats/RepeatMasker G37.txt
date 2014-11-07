@@ -1,0 +1,124 @@
+Summary:
+
+==================================================
+file name: RM2_sequence.fasta_1415395617
+sequences:             1
+total length:     580076 bp  (580076 bp excl N/X-runs)
+GC level:         31.69 %
+bases masked:       2628 bp ( 0.45 %)
+==================================================
+               number of      length   percentage
+               elements*    occupied  of sequence
+--------------------------------------------------
+Retroelements            0            0 bp    0.00 %
+   SINEs:                0            0 bp    0.00 %
+   Penelope              0            0 bp    0.00 %
+   LINEs:                0            0 bp    0.00 %
+    CRE/SLACS            0            0 bp    0.00 %
+     L2/CR1/Rex          0            0 bp    0.00 %
+     R1/LOA/Jockey       0            0 bp    0.00 %
+     R2/R4/NeSL          0            0 bp    0.00 %
+     RTE/Bov-B           0            0 bp    0.00 %
+     L1/CIN4             0            0 bp    0.00 %
+   LTR elements:         0            0 bp    0.00 %
+     BEL/Pao             0            0 bp    0.00 %
+     Ty1/Copia           0            0 bp    0.00 %
+     Gypsy/DIRS1         0            0 bp    0.00 %
+       Retroviral        0            0 bp    0.00 %
+
+DNA transposons          0            0 bp    0.00 %
+   hobo-Activator        0            0 bp    0.00 %
+   Tc1-IS630-Pogo        0            0 bp    0.00 %
+   En-Spm                0            0 bp    0.00 %
+   MuDR-IS905            0            0 bp    0.00 %
+   PiggyBac              0            0 bp    0.00 %
+   Tourist/Harbinger     0            0 bp    0.00 %
+   Other (Mirage,        0            0 bp    0.00 %
+    P-element, Transib)
+
+Rolling-circles          0            0 bp    0.00 %
+
+Unclassified:            0            0 bp    0.00 %
+
+Total interspersed repeats:           0 bp    0.00 %
+
+
+Small RNA:               0            0 bp    0.00 %
+
+Satellites:              0            0 bp    0.00 %
+Simple repeats:         51         2079 bp    0.36 %
+Low complexity:         10          549 bp    0.09 %
+==================================================
+
+
+
+
+
+
+
+
+  bit   perc perc perc  query                          position in query        matching   repeat           position in repeat
+score   div. del. ins.  sequence                       begin  end      (left)   repeat     class/family   begin  end    (left)  ID
+
+   15    3.6  6.5  3.1  gi|108885074|ref|NC_000908.2|   21467  21497 (558579) + (TTGATT)n  Simple_repeat       1     32    (0)   1  
+   16    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|   36791  36807 (543269) + (A)n       Simple_repeat       1     17    (0)   2  
+   16   11.4  0.0  9.5  gi|108885074|ref|NC_000908.2|   50587  50632 (529444) + A-rich     Low_complexity      1     42    (0)   3  
+   20   22.4  4.3  1.4  gi|108885074|ref|NC_000908.2|   64184  64252 (515824) + (TTTCT)n   Simple_repeat       1     71    (0)   4  
+   23   11.3  0.0  0.0  gi|108885074|ref|NC_000908.2|   86051  86088 (493988) + (CTT)n     Simple_repeat       1     38    (0)   5  
+   13   32.8  0.0  1.6  gi|108885074|ref|NC_000908.2|  133586 133647 (446429) + (TGCTTT)n  Simple_repeat       1     61    (0)   6  
+   52    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  169476 169522 (410554) + (TAG)n     Simple_repeat       1     47    (0)   7  
+   13   11.6  3.6  0.0  gi|108885074|ref|NC_000908.2|  171878 171905 (408171) + (ATTA)n    Simple_repeat       1     29    (0)   8  
+   12   18.1  0.0  3.1  gi|108885074|ref|NC_000908.2|  180690 180722 (399354) + (AACA)n    Simple_repeat       1     32    (0)   9  
+   12   17.7  3.1  0.0  gi|108885074|ref|NC_000908.2|  187278 187309 (392767) + (AATT)n    Simple_repeat       1     33    (0)  10  
+   15   29.7  0.0  0.0  gi|108885074|ref|NC_000908.2|  189042 189094 (390982) + (CATGAA)n  Simple_repeat       1     53    (0)  11  
+   16   10.5  3.2  0.0  gi|108885074|ref|NC_000908.2|  193623 193653 (386423) + (AAAAGC)n  Simple_repeat       1     32    (0)  12  
+   13   23.2  0.0  2.4  gi|108885074|ref|NC_000908.2|  213996 214037 (366039) + (TCCCCT)n  Simple_repeat       1     41    (0)  13  
+   12   17.7  3.1  0.0  gi|108885074|ref|NC_000908.2|  218833 218864 (361212) + (ATTGCT)n  Simple_repeat       1     33    (0)  14  
+   12   22.5  3.5  5.4  gi|108885074|ref|NC_000908.2|  221073 221129 (358947) + (TATA)n    Simple_repeat       1     56    (0)  15  
+   15   22.2  2.0  2.0  gi|108885074|ref|NC_000908.2|  223907 223955 (356121) + (TCCCCT)n  Simple_repeat       1     49    (0)  16  
+   21    5.9  2.7  2.7  gi|108885074|ref|NC_000908.2|  224533 224569 (355507) + (TAG)n     Simple_repeat       1     37    (0)  17  
+   42    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  227129 227166 (352910) + (TAG)n     Simple_repeat       1     38    (0)  18  
+   14   29.0  0.0  6.7  gi|108885074|ref|NC_000908.2|  235367 235446 (344630) + A-rich     Low_complexity      1     75    (0)  19  
+   12   17.1  2.9  2.9  gi|108885074|ref|NC_000908.2|  239300 239334 (340742) + (AAC)n     Simple_repeat       1     35    (0)  20  
+   14   27.3  0.0  0.0  gi|108885074|ref|NC_000908.2|  266170 266213 (313863) + (TATCAT)n  Simple_repeat       1     44    (0)  21  
+   22   14.3  2.1  2.1  gi|108885074|ref|NC_000908.2|  271819 271866 (308210) + (ACAA)n    Simple_repeat       1     48    (0)  22  
+   13   21.5  4.7  0.0  gi|108885074|ref|NC_000908.2|  273277 273319 (306757) + (AATAACA)n Simple_repeat       1     45    (0)  23  
+   14   27.1  1.8  1.8  gi|108885074|ref|NC_000908.2|  273371 273425 (306651) + (TCCACT)n  Simple_repeat       1     55    (0)  24  
+   12   15.8  0.0  3.5  gi|108885074|ref|NC_000908.2|  297212 297241 (282835) + (TTCTT)n   Simple_repeat       1     29    (0)  25  
+   13   27.9  0.0  2.1  gi|108885074|ref|NC_000908.2|  313285 313333 (266743) + (CTCCCC)n  Simple_repeat       1     48    (0)  26  
+   17   23.4  0.0  0.0  gi|108885074|ref|NC_000908.2|  337178 337223 (242853) + (TAT)n     Simple_repeat       1     46    (0)  27  
+   12   26.1  0.0  4.3  gi|108885074|ref|NC_000908.2|  341872 341920 (238156) + A-rich     Low_complexity      1     47    (0)  28  
+   13   15.8  4.3  4.3  gi|108885074|ref|NC_000908.2|  344924 344969 (235107) + A-rich     Low_complexity      1     46    (0)  29  
+   14    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  349736 349753 (230323) + (TTC)n     Simple_repeat       1     18    (0)  30  
+   35    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  351453 351484 (228592) + (TAG)n     Simple_repeat       1     32    (0)  31  
+   15   10.7  6.8  4.4  gi|108885074|ref|NC_000908.2|  352606 352649 (227427) + (CTT)n     Simple_repeat       1     45    (0)  32  
+   15   17.6  0.0  0.0  gi|108885074|ref|NC_000908.2|  356221 356252 (223824) + (TTTA)n    Simple_repeat       1     32    (0)  33  
+   13    9.8  0.0  0.0  gi|108885074|ref|NC_000908.2|  364270 364291 (215785) + (TCA)n     Simple_repeat       1     22    (0)  34  
+   13   23.4  2.1  2.1  gi|108885074|ref|NC_000908.2|  370526 370572 (209504) + (ATCATTT)n Simple_repeat       1     47    (0)  35  
+   14   21.4  2.2  2.2  gi|108885074|ref|NC_000908.2|  381713 381757 (198319) + (AATTT)n   Simple_repeat       1     45    (0)  36  
+   32    3.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  384456 384489 (195587) + (TACTAT)n  Simple_repeat       1     34    (0)  37  
+   14   25.6  0.0  0.0  gi|108885074|ref|NC_000908.2|  385114 385155 (194921) + (ATTACT)n  Simple_repeat       1     42    (0)  38  
+   13   12.5  5.4  2.6  gi|108885074|ref|NC_000908.2|  398340 398376 (181700) + (TTCTTG)n  Simple_repeat       1     38    (0)  39  
+   18   30.7  1.5  0.0  gi|108885074|ref|NC_000908.2|  398741 398808 (181268) + (AAGCA)n   Simple_repeat       1     69    (0)  40  
+   15   15.6  4.3  4.3  gi|108885074|ref|NC_000908.2|  414987 415033 (165043) + A-rich     Low_complexity      1     47    (0)  41  
+   13   22.6  5.0  3.3  gi|108885074|ref|NC_000908.2|  416926 416936 (163140) + (TTAATAG)n Simple_repeat       1     24   (37)  42  
+   11   20.7  0.0  2.9  gi|108885074|ref|NC_000908.2|  416937 416971 (163105) + (TAATTC)n  Simple_repeat       1     34    (0)  43  
+   13   22.6  5.0  3.3  gi|108885074|ref|NC_000908.2|  416972 416985 (163091) + (TTAATAG)n Simple_repeat      25     61    (0)  42  
+   34    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  425824 425854 (154222) + (TGT)n     Simple_repeat       1     31    (0)  44  
+   35    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  429305 429336 (150740) + (TAG)n     Simple_repeat       1     32    (0)  45  
+   56    0.0  0.0  0.0  gi|108885074|ref|NC_000908.2|  429967 430016 (150060) + (CTT)n     Simple_repeat       1     50    (0)  46  
+   23    3.4  0.0  0.0  gi|108885074|ref|NC_000908.2|  430017 430046 (150030) + (ACT)n     Simple_repeat       1     30    (0)  47  
+   13    4.7  0.0  4.3  gi|108885074|ref|NC_000908.2|  437026 437049 (143027) + (TAAT)n    Simple_repeat       1     23    (0)  48  
+   13   12.3  5.4  2.6  gi|108885074|ref|NC_000908.2|  460860 460896 (119180) + (TTAGTTT)n Simple_repeat       1     38    (0)  49  
+   25   22.8  3.5  5.4  gi|108885074|ref|NC_000908.2|  461569 461681 (118395) + A-rich     Low_complexity      1    111    (0)  50  
+   12   15.9  5.7  0.0  gi|108885074|ref|NC_000908.2|  468137 468171 (111905) + (AATATTA)n Simple_repeat       1     37    (0)  51  
+   16   17.0  4.0  4.0  gi|108885074|ref|NC_000908.2|  480619 480668  (99408) + (AATA)n    Simple_repeat       1     50    (0)  52  
+   17   19.2  0.0  0.0  gi|108885074|ref|NC_000908.2|  483241 483276  (96800) + (ACC)n     Simple_repeat       1     36    (0)  53  
+   14   23.3  0.0  0.0  gi|108885074|ref|NC_000908.2|  483878 483917  (96159) + A-rich     Low_complexity      1     40    (0)  54  
+   18   30.2  0.0  0.0  gi|108885074|ref|NC_000908.2|  488397 488457  (91619) + (CTTCAA)n  Simple_repeat       1     61    (0)  55  
+   15   22.1  0.0  6.0  gi|108885074|ref|NC_000908.2|  489495 489547  (90529) + (TTTTTG)n  Simple_repeat       1     50    (0)  56  
+   13   16.3  0.0  5.6  gi|108885074|ref|NC_000908.2|  508353 508390  (71686) + A-rich     Low_complexity      1     36    (0)  57  
+   15   20.3  4.4  0.0  gi|108885074|ref|NC_000908.2|  514879 514923  (65153) + A-rich     Low_complexity      1     47    (0)  58  
+   12   23.3  0.0  4.8  gi|108885074|ref|NC_000908.2|  531559 531602  (48474) + (TTATTA)n  Simple_repeat       1     42    (0)  59  
+   15   17.1  0.0  7.1  gi|108885074|ref|NC_000908.2|  551598 551642  (28434) + A-rich     Low_complexity      1     42    (0)  60  
+   17   21.3  5.8  2.8  gi|108885074|ref|NC_000908.2|  560503 560571  (19505) + (TTTGCT)n  Simple_repeat       1     71    (0)  61  
