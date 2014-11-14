@@ -1,0 +1,2052 @@
+##gff-version 3
+##sequence-region 1 1 580076
+1	prediction	gene	687	1828	10.0	+	.	ID=1;other=Some,annotations
+1	prediction	CDS	150	182	.	+	0	Parent=1
+##gff-version 3
+##sequence-region 2 1 580076
+2	prediction	gene	1829	2760	10.0	+	.	ID=2;other=Some,annotations
+2	prediction	CDS	9	56	.	+	0	Parent=2
+##gff-version 3
+##sequence-region 3 1 580076
+3	prediction	gene	2846	4797	10.0	+	.	ID=3;other=Some,annotations
+3	prediction	CDS	90	92	.	+	0	Parent=3
+##gff-version 3
+##sequence-region 4 1 580076
+4	prediction	gene	4813	7322	10.0	+	.	ID=4;other=Some,annotations
+4	prediction	CDS	136	168	.	+	0	Parent=4
+##gff-version 3
+##sequence-region 5 1 580076
+5	prediction	gene	7295	8547	10.0	+	.	ID=5;other=Some,annotations
+5	prediction	CDS	19	33	.	+	0	Parent=5
+##gff-version 3
+##sequence-region 6 1 580076
+6	prediction	gene	8552	9183	10.0	+	.	ID=6;other=Some,annotations
+6	prediction	CDS	110	286	.	+	0	Parent=6
+##gff-version 3
+##sequence-region 7 1 580076
+7	prediction	gene	9157	9920	10.0	+	.	ID=7;other=Some,annotations
+7	prediction	CDS	5	19	.	+	0	Parent=7
+##gff-version 3
+##sequence-region 8 1 580076
+8	prediction	gene	9924	11251	10.0	+	.	ID=8;other=Some,annotations
+8	prediction	CDS	55	216	.	+	0	Parent=8
+##gff-version 3
+##sequence-region 9 1 580076
+9	prediction	gene	11252	12039	10.0	+	.	ID=9;other=Some,annotations
+9	prediction	CDS	6	53	.	+	0	Parent=9
+##gff-version 3
+##sequence-region 10 1 580076
+10	prediction	gene	12069	12724	10.0	+	.	ID=10;other=Some,annotations
+10	prediction	CDS	96	212	.	+	0	Parent=10
+##gff-version 3
+##sequence-region 11 1 580076
+11	prediction	gene	12702	13564	10.0	-	.	ID=11;other=Some,annotations
+11	prediction	CDS	123	158	.	-	0	Parent=11
+##gff-version 3
+##sequence-region 12 1 580076
+12	prediction	gene	13570	14432	10.0	-	.	ID=12;other=Some,annotations
+12	prediction	CDS	102	236	.	-	0	Parent=12
+##gff-version 3
+##sequence-region 13 1 580076
+13	prediction	gene	14396	15216	10.0	-	.	ID=13;other=Some,annotations
+13	prediction	CDS	21	32	.	-	0	Parent=13
+##gff-version 3
+##sequence-region 14 1 580076
+14	prediction	gene	15556	17426	10.0	+	.	ID=14;other=Some,annotations
+14	prediction	CDS	262	303	.	+	0	Parent=14
+##gff-version 3
+##sequence-region 15 1 580076
+15	prediction	gene	17405	19242	10.0	+	.	ID=15;other=Some,annotations
+15	prediction	CDS	62	91	.	+	0	Parent=15
+##gff-version 3
+##sequence-region 16 1 580076
+16	prediction	gene	19253	22347	10.0	+	.	ID=16;other=Some,annotations
+16	prediction	CDS	419	511	.	+	0	Parent=16
+##gff-version 3
+##sequence-region 17 1 580076
+17	prediction	gene	22390	23558	10.0	+	.	ID=17;other=Some,annotations
+17	prediction	CDS	134	310	.	+	0	Parent=17
+##gff-version 3
+##sequence-region 18 1 580076
+18	prediction	gene	23543	24468	10.0	+	.	ID=18;other=Some,annotations
+18	prediction	CDS	5	178	.	+	0	Parent=18
+##gff-version 3
+##sequence-region 19 1 580076
+19	prediction	gene	24469	26006	10.0	+	.	ID=19;other=Some,annotations
+19	prediction	CDS	17	37	.	+	0	Parent=19
+##gff-version 3
+##sequence-region 20 1 580076
+20	prediction	gene	26037	26473	10.0	+	.	ID=20;other=Some,annotations
+20	prediction	CDS	12	23	.	+	0	Parent=20
+##gff-version 3
+##sequence-region 21 1 580076
+21	prediction	gene	26480	27345	10.0	+	.	ID=21;other=Some,annotations
+21	prediction	CDS	162	185	.	+	0	Parent=21
+##gff-version 3
+##sequence-region 22 1 580076
+22	prediction	gene	27347	28449	10.0	+	.	ID=22;other=Some,annotations
+22	prediction	CDS	25	66	.	+	0	Parent=22
+##gff-version 3
+##sequence-region 23 1 580076
+23	prediction	gene	28731	29548	10.0	+	.	ID=23;other=Some,annotations
+23	prediction	CDS	7	18	.	+	0	Parent=23
+##gff-version 3
+##sequence-region 24 1 580076
+24	prediction	gene	29553	30124	10.0	+	.	ID=24;other=Some,annotations
+24	prediction	CDS	76	219	.	+	0	Parent=24
+##gff-version 3
+##sequence-region 25 1 580076
+25	prediction	gene	30094	30548	10.0	+	.	ID=25;other=Some,annotations
+25	prediction	CDS	8	31	.	+	0	Parent=25
+##gff-version 3
+##sequence-region 26 1 580076
+26	prediction	gene	30549	31153	10.0	+	.	ID=26;other=Some,annotations
+26	prediction	CDS	210	242	.	+	0	Parent=26
+##gff-version 3
+##sequence-region 27 1 580076
+27	prediction	gene	31144	31703	10.0	-	.	ID=27;other=Some,annotations
+27	prediction	CDS	5	7	.	-	0	Parent=27
+##gff-version 3
+##sequence-region 28 1 580076
+28	prediction	gene	31706	32325	10.0	-	.	ID=28;other=Some,annotations
+28	prediction	CDS	6	104	.	-	0	Parent=28
+##gff-version 3
+##sequence-region 29 1 580076
+29	prediction	gene	32360	36714	10.0	-	.	ID=29;other=Some,annotations
+29	prediction	CDS	6	53	.	-	0	Parent=29
+##gff-version 3
+##sequence-region 30 1 580076
+30	prediction	gene	36978	38977	10.0	+	.	ID=30;other=Some,annotations
+30	prediction	CDS	37	114	.	+	0	Parent=30
+##gff-version 3
+##sequence-region 31 1 580076
+31	prediction	gene	39128	39903	10.0	+	.	ID=31;other=Some,annotations
+31	prediction	CDS	17	22	.	+	0	Parent=31
+##gff-version 3
+##sequence-region 32 1 580076
+32	prediction	gene	39873	40513	10.0	-	.	ID=32;other=Some,annotations
+32	prediction	CDS	38	247	.	-	0	Parent=32
+##gff-version 3
+##sequence-region 33 1 580076
+33	prediction	gene	40543	41786	10.0	+	.	ID=33;other=Some,annotations
+33	prediction	CDS	195	320	.	+	0	Parent=33
+##gff-version 3
+##sequence-region 34 1 580076
+34	prediction	gene	41759	43428	10.0	+	.	ID=34;other=Some,annotations
+34	prediction	CDS	200	232	.	+	0	Parent=34
+##gff-version 3
+##sequence-region 35 1 580076
+35	prediction	gene	43405	44753	10.0	+	.	ID=35;other=Some,annotations
+35	prediction	CDS	95	196	.	+	0	Parent=35
+##gff-version 3
+##sequence-region 36 1 580076
+36	prediction	gene	44751	46276	10.0	-	.	ID=36;other=Some,annotations
+36	prediction	CDS	60	68	.	-	0	Parent=36
+##gff-version 3
+##sequence-region 37 1 580076
+37	prediction	gene	46268	47421	10.0	-	.	ID=37;other=Some,annotations
+37	prediction	CDS	72	137	.	-	0	Parent=37
+##gff-version 3
+##sequence-region 38 1 580076
+38	prediction	gene	47581	49355	10.0	+	.	ID=38;other=Some,annotations
+38	prediction	CDS	49	111	.	+	0	Parent=38
+##gff-version 3
+##sequence-region 40 1 580076
+40	prediction	gene	49841	51519	10.0	+	.	ID=40;other=Some,annotations
+40	prediction	CDS	107	154	.	+	0	Parent=40
+##gff-version 3
+##sequence-region 41 1 580076
+41	prediction	gene	51597	52381	10.0	+	.	ID=41;other=Some,annotations
+41	prediction	CDS	25	282	.	+	0	Parent=41
+##gff-version 3
+##sequence-region 42 1 580076
+42	prediction	gene	52366	53219	10.0	+	.	ID=42;other=Some,annotations
+42	prediction	CDS	67	132	.	+	0	Parent=42
+##gff-version 3
+##sequence-region 43 1 580076
+43	prediction	gene	53205	54655	10.0	+	.	ID=43;other=Some,annotations
+43	prediction	CDS	85	144	.	+	0	Parent=43
+##gff-version 3
+##sequence-region 44 1 580076
+44	prediction	gene	54658	55604	10.0	+	.	ID=44;other=Some,annotations
+44	prediction	CDS	47	214	.	+	0	Parent=44
+##gff-version 3
+##sequence-region 45 1 580076
+45	prediction	gene	55589	56739	10.0	+	.	ID=45;other=Some,annotations
+45	prediction	CDS	20	34	.	+	0	Parent=45
+##gff-version 3
+##sequence-region 46 1 580076
+46	prediction	gene	56716	56972	10.0	+	.	ID=46;other=Some,annotations
+46	prediction	CDS	70	114	.	+	0	Parent=46
+##gff-version 3
+##sequence-region 47 1 580076
+47	prediction	gene	56970	58270	10.0	-	.	ID=47;other=Some,annotations
+47	prediction	CDS	80	97	.	-	0	Parent=47
+##gff-version 3
+##sequence-region 48 1 580076
+48	prediction	gene	58363	59078	10.0	+	.	ID=48;other=Some,annotations
+48	prediction	CDS	143	157	.	+	0	Parent=48
+##gff-version 3
+##sequence-region 49 1 580076
+49	prediction	gene	59083	59753	10.0	+	.	ID=49;other=Some,annotations
+49	prediction	CDS	12	20	.	+	0	Parent=49
+##gff-version 3
+##sequence-region 50 1 580076
+50	prediction	gene	59741	61005	10.0	+	.	ID=50;other=Some,annotations
+50	prediction	CDS	113	118	.	+	0	Parent=50
+##gff-version 3
+##sequence-region 51 1 580076
+51	prediction	gene	61015	61406	10.0	+	.	ID=51;other=Some,annotations
+51	prediction	CDS	34	135	.	+	0	Parent=51
+##gff-version 3
+##sequence-region 52 1 580076
+52	prediction	gene	61407	63058	10.0	+	.	ID=52;other=Some,annotations
+52	prediction	CDS	222	224	.	+	0	Parent=52
+##gff-version 3
+##sequence-region 53 1 580076
+53	prediction	gene	63036	63985	10.0	-	.	ID=53;other=Some,annotations
+53	prediction	CDS	59	94	.	-	0	Parent=53
+##gff-version 3
+##sequence-region 54 1 580076
+54	prediction	gene	63990	64360	10.0	-	.	ID=54;other=Some,annotations
+54	prediction	CDS	85	105	.	-	0	Parent=54
+##gff-version 3
+##sequence-region 55 1 580076
+55	prediction	gene	64528	64910	10.0	-	.	ID=55;other=Some,annotations
+55	prediction	CDS	91	180	.	-	0	Parent=55
+##gff-version 3
+##sequence-region 56 1 580076
+56	prediction	gene	64898	65730	10.0	-	.	ID=56;other=Some,annotations
+56	prediction	CDS	538	708	.	-	0	Parent=56
+##gff-version 3
+##sequence-region 57 1 580076
+57	prediction	gene	65713	66248	10.0	-	.	ID=57;other=Some,annotations
+57	prediction	CDS	90	113	.	-	0	Parent=57
+##gff-version 3
+##sequence-region 58 1 580076
+58	prediction	gene	66228	67225	10.0	-	.	ID=58;other=Some,annotations
+58	prediction	CDS	55	66	.	-	0	Parent=58
+##gff-version 3
+##sequence-region 60 1 580076
+60	prediction	gene	67651	68543	10.0	+	.	ID=60;other=Some,annotations
+60	prediction	CDS	19	30	.	+	0	Parent=60
+##gff-version 3
+##sequence-region 61 1 580076
+61	prediction	gene	68523	70225	10.0	-	.	ID=61;other=Some,annotations
+61	prediction	CDS	30	41	.	-	0	Parent=61
+##gff-version 3
+##sequence-region 62 1 580076
+62	prediction	gene	70531	72572	10.0	+	.	ID=62;other=Some,annotations
+62	prediction	CDS	97	261	.	+	0	Parent=62
+##gff-version 3
+##sequence-region 63 1 580076
+63	prediction	gene	72524	73434	10.0	+	.	ID=63;other=Some,annotations
+63	prediction	CDS	51	62	.	+	0	Parent=63
+##gff-version 3
+##sequence-region 64 1 580076
+64	prediction	gene	73446	73648	10.0	+	.	ID=64;other=Some,annotations
+64	prediction	CDS	92	100	.	+	0	Parent=64
+##gff-version 3
+##sequence-region 65 1 580076
+65	prediction	gene	73691	77685	10.0	+	.	ID=65;other=Some,annotations
+65	prediction	CDS	257	334	.	+	0	Parent=65
+##gff-version 3
+##sequence-region 66 1 580076
+66	prediction	gene	77686	79085	10.0	+	.	ID=66;other=Some,annotations
+66	prediction	CDS	70	84	.	+	0	Parent=66
+##gff-version 3
+##sequence-region 67 1 580076
+67	prediction	gene	79090	81035	10.0	+	.	ID=67;other=Some,annotations
+67	prediction	CDS	6	41	.	+	0	Parent=67
+##gff-version 3
+##sequence-region 68 1 580076
+68	prediction	gene	81047	82596	10.0	+	.	ID=68;other=Some,annotations
+68	prediction	CDS	55	117	.	+	0	Parent=68
+##gff-version 3
+##sequence-region 69 1 580076
+69	prediction	gene	82621	84044	10.0	+	.	ID=69;other=Some,annotations
+69	prediction	CDS	162	227	.	+	0	Parent=69
+##gff-version 3
+##sequence-region 70 1 580076
+70	prediction	gene	84083	84408	10.0	+	.	ID=70;other=Some,annotations
+70	prediction	CDS	125	130	.	+	0	Parent=70
+##gff-version 3
+##sequence-region 71 1 580076
+71	prediction	gene	84552	85555	10.0	+	.	ID=71;other=Some,annotations
+71	prediction	CDS	167	178	.	+	0	Parent=71
+##gff-version 3
+##sequence-region 72 1 580076
+72	prediction	gene	85590	85999	10.0	+	.	ID=72;other=Some,annotations
+72	prediction	CDS	68	70	.	+	0	Parent=72
+##gff-version 3
+##sequence-region 74 1 580076
+74	prediction	gene	86135	86616	10.0	+	.	ID=74;other=Some,annotations
+74	prediction	CDS	44	97	.	+	0	Parent=74
+##gff-version 3
+##sequence-region 75 1 580076
+75	prediction	gene	86828	87645	10.0	+	.	ID=75;other=Some,annotations
+75	prediction	CDS	92	172	.	+	0	Parent=75
+##gff-version 3
+##sequence-region 76 1 580076
+76	prediction	gene	87936	88207	10.0	+	.	ID=76;other=Some,annotations
+76	prediction	CDS	116	190	.	+	0	Parent=76
+##gff-version 3
+##sequence-region 77 1 580076
+77	prediction	gene	88229	90954	10.0	+	.	ID=77;other=Some,annotations
+77	prediction	CDS	235	396	.	+	0	Parent=77
+##gff-version 3
+##sequence-region 78 1 580076
+78	prediction	gene	91066	91919	10.0	+	.	ID=78;other=Some,annotations
+78	prediction	CDS	8	106	.	+	0	Parent=78
+##gff-version 3
+##sequence-region 79 1 580076
+79	prediction	gene	91925	94548	10.0	+	.	ID=79;other=Some,annotations
+79	prediction	CDS	86	103	.	+	0	Parent=79
+##gff-version 3
+##sequence-region 80 1 580076
+80	prediction	gene	94536	96955	10.0	+	.	ID=80;other=Some,annotations
+80	prediction	CDS	96	176	.	+	0	Parent=80
+##gff-version 3
+##sequence-region 81 1 580076
+81	prediction	gene	96934	98903	10.0	+	.	ID=81;other=Some,annotations
+81	prediction	CDS	52	63	.	+	0	Parent=81
+##gff-version 3
+##sequence-region 82 1 580076
+82	prediction	gene	98907	99319	10.0	+	.	ID=82;other=Some,annotations
+82	prediction	CDS	76	87	.	+	0	Parent=82
+##gff-version 3
+##sequence-region 83 1 580076
+83	prediction	gene	99414	102457	10.0	+	.	ID=83;other=Some,annotations
+83	prediction	CDS	23	55	.	+	0	Parent=83
+##gff-version 3
+##sequence-region 84 1 580076
+84	prediction	gene	102455	102870	10.0	-	.	ID=84;other=Some,annotations
+84	prediction	CDS	263	385	.	-	0	Parent=84
+##gff-version 3
+##sequence-region 85 1 580076
+85	prediction	gene	103162	104327	10.0	+	.	ID=85;other=Some,annotations
+85	prediction	CDS	29	151	.	+	0	Parent=85
+##gff-version 3
+##sequence-region 86 1 580076
+86	prediction	gene	104321	105450	10.0	+	.	ID=86;other=Some,annotations
+86	prediction	CDS	92	145	.	+	0	Parent=86
+##gff-version 3
+##sequence-region 87 1 580076
+87	prediction	gene	105453	106660	10.0	+	.	ID=87;other=Some,annotations
+87	prediction	CDS	79	132	.	+	0	Parent=87
+##gff-version 3
+##sequence-region 88 1 580076
+88	prediction	gene	106661	109206	10.0	+	.	ID=88;other=Some,annotations
+88	prediction	CDS	104	157	.	+	0	Parent=88
+##gff-version 3
+##sequence-region 89 1 580076
+89	prediction	gene	109263	109675	10.0	+	.	ID=89;other=Some,annotations
+89	prediction	CDS	17	112	.	+	0	Parent=89
+##gff-version 3
+##sequence-region 90 1 580076
+90	prediction	gene	109676	110355	10.0	+	.	ID=90;other=Some,annotations
+90	prediction	CDS	32	76	.	+	0	Parent=90
+##gff-version 3
+##sequence-region 91 1 580076
+91	prediction	gene	110356	110924	10.0	+	.	ID=91;other=Some,annotations
+91	prediction	CDS	188	346	.	+	0	Parent=91
+##gff-version 3
+##sequence-region 92 1 580076
+92	prediction	gene	110918	111789	10.0	+	.	ID=92;other=Some,annotations
+92	prediction	CDS	69	80	.	+	0	Parent=92
+##gff-version 3
+##sequence-region 93 1 580076
+93	prediction	gene	111791	112725	10.0	+	.	ID=93;other=Some,annotations
+93	prediction	CDS	89	124	.	+	0	Parent=93
+##gff-version 3
+##sequence-region 94 1 580076
+94	prediction	gene	112719	113866	10.0	+	.	ID=94;other=Some,annotations
+94	prediction	CDS	129	161	.	+	0	Parent=94
+##gff-version 3
+##sequence-region 95 1 580076
+95	prediction	gene	113896	114314	10.0	+	.	ID=95;other=Some,annotations
+95	prediction	CDS	5	16	.	+	0	Parent=95
+##gff-version 3
+##sequence-region 96 1 580076
+96	prediction	gene	114332	114798	10.0	+	.	ID=96;other=Some,annotations
+96	prediction	CDS	34	39	.	+	0	Parent=96
+##gff-version 3
+##sequence-region 97 1 580076
+97	prediction	gene	114809	116874	10.0	+	.	ID=97;other=Some,annotations
+97	prediction	CDS	182	313	.	+	0	Parent=97
+##gff-version 3
+##sequence-region 98 1 580076
+98	prediction	gene	116927	117552	10.0	+	.	ID=98;other=Some,annotations
+98	prediction	CDS	6	11	.	+	0	Parent=98
+##gff-version 3
+##sequence-region 99 1 580076
+99	prediction	gene	117554	118035	10.0	+	.	ID=99;other=Some,annotations
+99	prediction	CDS	35	124	.	+	0	Parent=99
+##gff-version 3
+##sequence-region 100 1 580076
+100	prediction	gene	118029	118342	10.0	+	.	ID=100;other=Some,annotations
+100	prediction	CDS	224	298	.	+	0	Parent=100
+##gff-version 3
+##sequence-region 101 1 580076
+101	prediction	gene	118346	118797	10.0	+	.	ID=101;other=Some,annotations
+101	prediction	CDS	171	212	.	+	0	Parent=101
+##gff-version 3
+##sequence-region 102 1 580076
+102	prediction	gene	118782	120187	10.0	+	.	ID=102;other=Some,annotations
+102	prediction	CDS	180	197	.	+	0	Parent=102
+##gff-version 3
+##sequence-region 103 1 580076
+103	prediction	gene	120192	121387	10.0	+	.	ID=103;other=Some,annotations
+103	prediction	CDS	15	29	.	+	0	Parent=103
+##gff-version 3
+##sequence-region 104 1 580076
+104	prediction	gene	121572	123523	10.0	+	.	ID=104;other=Some,annotations
+104	prediction	CDS	37	117	.	+	0	Parent=104
+##gff-version 3
+##sequence-region 105 1 580076
+105	prediction	gene	123587	124317	10.0	+	.	ID=105;other=Some,annotations
+105	prediction	CDS	37	81	.	+	0	Parent=105
+##gff-version 3
+##sequence-region 106 1 580076
+106	prediction	gene	124418	125850	10.0	+	.	ID=106;other=Some,annotations
+106	prediction	CDS	17	49	.	+	0	Parent=106
+##gff-version 3
+##sequence-region 107 1 580076
+107	prediction	gene	125854	127286	10.0	+	.	ID=107;other=Some,annotations
+107	prediction	CDS	31	108	.	+	0	Parent=107
+##gff-version 3
+##sequence-region 108 1 580076
+108	prediction	gene	127280	128712	10.0	+	.	ID=108;other=Some,annotations
+108	prediction	CDS	50	181	.	+	0	Parent=108
+##gff-version 3
+##sequence-region 109 1 580076
+109	prediction	gene	128688	129355	10.0	+	.	ID=109;other=Some,annotations
+109	prediction	CDS	164	313	.	+	0	Parent=109
+##gff-version 3
+##sequence-region 110 1 580076
+110	prediction	gene	129349	130295	10.0	+	.	ID=110;other=Some,annotations
+110	prediction	CDS	231	278	.	+	0	Parent=110
+##gff-version 3
+##sequence-region 111 1 580076
+111	prediction	gene	130286	131127	10.0	+	.	ID=111;other=Some,annotations
+111	prediction	CDS	11	43	.	+	0	Parent=111
+##gff-version 3
+##sequence-region 112 1 580076
+112	prediction	gene	131150	131382	10.0	+	.	ID=112;other=Some,annotations
+112	prediction	CDS	80	88	.	+	0	Parent=112
+##gff-version 3
+##sequence-region 113 1 580076
+113	prediction	gene	131386	133562	10.0	+	.	ID=113;other=Some,annotations
+113	prediction	CDS	35	199	.	+	0	Parent=113
+##gff-version 3
+##sequence-region 114 1 580076
+114	prediction	gene	133571	134172	10.0	+	.	ID=114;other=Some,annotations
+114	prediction	CDS	26	73	.	+	0	Parent=114
+##gff-version 3
+##sequence-region 115 1 580076
+115	prediction	gene	134148	134728	10.0	-	.	ID=115;other=Some,annotations
+115	prediction	CDS	46	144	.	-	0	Parent=115
+##gff-version 3
+##sequence-region 116 1 580076
+116	prediction	gene	134770	135338	10.0	+	.	ID=116;other=Some,annotations
+116	prediction	CDS	29	73	.	+	0	Parent=116
+##gff-version 3
+##sequence-region 117 1 580076
+117	prediction	gene	135339	136120	10.0	+	.	ID=117;other=Some,annotations
+117	prediction	CDS	26	34	.	+	0	Parent=117
+##gff-version 3
+##sequence-region 118 1 580076
+118	prediction	gene	136106	137268	10.0	+	.	ID=118;other=Some,annotations
+118	prediction	CDS	396	446	.	+	0	Parent=118
+##gff-version 3
+##sequence-region 119 1 580076
+119	prediction	gene	137256	138091	10.0	+	.	ID=119;other=Some,annotations
+119	prediction	CDS	100	114	.	+	0	Parent=119
+##gff-version 3
+##sequence-region 120 1 580076
+120	prediction	gene	138113	139407	10.0	+	.	ID=120;other=Some,annotations
+120	prediction	CDS	72	92	.	+	0	Parent=120
+##gff-version 3
+##sequence-region 121 1 580076
+121	prediction	gene	139398	140026	10.0	+	.	ID=121;other=Some,annotations
+121	prediction	CDS	28	96	.	+	0	Parent=121
+##gff-version 3
+##sequence-region 122 1 580076
+122	prediction	gene	140041	141410	10.0	+	.	ID=122;other=Some,annotations
+122	prediction	CDS	11	43	.	+	0	Parent=122
+##gff-version 3
+##sequence-region 123 1 580076
+123	prediction	gene	141392	142056	10.0	+	.	ID=123;other=Some,annotations
+123	prediction	CDS	63	68	.	+	0	Parent=123
+##gff-version 3
+##sequence-region 124 1 580076
+124	prediction	gene	142082	142554	10.0	+	.	ID=124;other=Some,annotations
+124	prediction	CDS	37	87	.	+	0	Parent=124
+##gff-version 3
+##sequence-region 125 1 580076
+125	prediction	gene	142564	143318	10.0	+	.	ID=125;other=Some,annotations
+125	prediction	CDS	8	109	.	+	0	Parent=125
+##gff-version 3
+##sequence-region 126 1 580076
+126	prediction	gene	143312	143955	10.0	+	.	ID=126;other=Some,annotations
+126	prediction	CDS	25	60	.	+	0	Parent=126
+##gff-version 3
+##sequence-region 127 1 580076
+127	prediction	gene	143937	144958	10.0	+	.	ID=127;other=Some,annotations
+127	prediction	CDS	45	71	.	+	0	Parent=127
+##gff-version 3
+##sequence-region 128 1 580076
+128	prediction	gene	144974	146667	10.0	+	.	ID=128;other=Some,annotations
+128	prediction	CDS	98	136	.	+	0	Parent=128
+##gff-version 3
+##sequence-region 129 1 580076
+129	prediction	gene	146681	148236	10.0	+	.	ID=129;other=Some,annotations
+129	prediction	CDS	18	92	.	+	0	Parent=129
+##gff-version 3
+##sequence-region 130 1 580076
+130	prediction	gene	148240	149159	10.0	+	.	ID=130;other=Some,annotations
+130	prediction	CDS	164	181	.	+	0	Parent=130
+##gff-version 3
+##sequence-region 131 1 580076
+131	prediction	gene	149200	151328	10.0	+	.	ID=131;other=Some,annotations
+131	prediction	CDS	143	232	.	+	0	Parent=131
+##gff-version 3
+##sequence-region 132 1 580076
+132	prediction	gene	151307	152721	10.0	+	.	ID=132;other=Some,annotations
+132	prediction	CDS	144	146	.	+	0	Parent=132
+##gff-version 3
+##sequence-region 134 1 580076
+134	prediction	gene	153083	153939	10.0	+	.	ID=134;other=Some,annotations
+134	prediction	CDS	149	331	.	+	0	Parent=134
+##gff-version 3
+##sequence-region 135 1 580076
+135	prediction	gene	153921	154963	10.0	-	.	ID=135;other=Some,annotations
+135	prediction	CDS	101	112	.	-	0	Parent=135
+##gff-version 3
+##sequence-region 136 1 580076
+136	prediction	gene	155000	155436	10.0	+	.	ID=136;other=Some,annotations
+136	prediction	CDS	191	271	.	+	0	Parent=136
+##gff-version 3
+##sequence-region 137 1 580076
+137	prediction	gene	155445	156223	10.0	+	.	ID=137;other=Some,annotations
+137	prediction	CDS	6	11	.	+	0	Parent=137
+##gff-version 3
+##sequence-region 138 1 580076
+138	prediction	gene	156224	156576	10.0	+	.	ID=138;other=Some,annotations
+138	prediction	CDS	43	48	.	+	0	Parent=138
+##gff-version 3
+##sequence-region 139 1 580076
+139	prediction	gene	156567	158020	10.0	+	.	ID=139;other=Some,annotations
+139	prediction	CDS	14	31	.	+	0	Parent=139
+##gff-version 3
+##sequence-region 140 1 580076
+140	prediction	gene	158024	158247	10.0	+	.	ID=140;other=Some,annotations
+140	prediction	CDS	6	38	.	+	0	Parent=140
+##gff-version 3
+##sequence-region 141 1 580076
+141	prediction	gene	158324	158604	10.0	+	.	ID=141;other=Some,annotations
+141	prediction	CDS	85	195	.	+	0	Parent=141
+##gff-version 3
+##sequence-region 142 1 580076
+142	prediction	gene	158582	159006	10.0	-	.	ID=142;other=Some,annotations
+142	prediction	CDS	189	212	.	-	0	Parent=142
+##gff-version 3
+##sequence-region 143 1 580076
+143	prediction	gene	158985	159778	10.0	-	.	ID=143;other=Some,annotations
+143	prediction	CDS	23	52	.	-	0	Parent=143
+##gff-version 3
+##sequence-region 144 1 580076
+144	prediction	gene	159799	160100	10.0	+	.	ID=144;other=Some,annotations
+144	prediction	CDS	90	110	.	+	0	Parent=144
+##gff-version 3
+##sequence-region 145 1 580076
+145	prediction	gene	160073	160914	10.0	-	.	ID=145;other=Some,annotations
+145	prediction	CDS	129	134	.	-	0	Parent=145
+##gff-version 3
+##sequence-region 146 1 580076
+146	prediction	gene	160964	162435	10.0	+	.	ID=146;other=Some,annotations
+146	prediction	CDS	252	254	.	+	0	Parent=146
+##gff-version 3
+##sequence-region 147 1 580076
+147	prediction	gene	162423	163591	10.0	+	.	ID=147;other=Some,annotations
+147	prediction	CDS	55	75	.	+	0	Parent=147
+##gff-version 3
+##sequence-region 148 1 580076
+148	prediction	gene	163592	165387	10.0	+	.	ID=148;other=Some,annotations
+148	prediction	CDS	59	64	.	+	0	Parent=148
+##gff-version 3
+##sequence-region 149 1 580076
+149	prediction	gene	165472	167180	10.0	+	.	ID=149;other=Some,annotations
+149	prediction	CDS	160	393	.	+	0	Parent=149
+##gff-version 3
+##sequence-region 152 1 580076
+152	prediction	gene	167770	168230	10.0	+	.	ID=152;other=Some,annotations
+152	prediction	CDS	7	120	.	+	0	Parent=152
+##gff-version 3
+##sequence-region 153 1 580076
+153	prediction	gene	168422	169815	10.0	+	.	ID=153;other=Some,annotations
+153	prediction	CDS	92	172	.	+	0	Parent=153
+##gff-version 3
+##sequence-region 154 1 580076
+154	prediction	gene	171600	171742	10.0	+	.	ID=154;other=Some,annotations
+154	prediction	CDS	114	122	.	+	0	Parent=154
+##gff-version 3
+##sequence-region 155 1 580076
+155	prediction	gene	174091	174482	10.0	+	.	ID=155;other=Some,annotations
+155	prediction	CDS	8	28	.	+	0	Parent=155
+##gff-version 3
+##sequence-region 156 1 580076
+156	prediction	gene	174978	175360	10.0	+	.	ID=156;other=Some,annotations
+156	prediction	CDS	77	97	.	+	0	Parent=156
+##gff-version 3
+##sequence-region 157 1 580076
+157	prediction	gene	175339	175667	10.0	+	.	ID=157;other=Some,annotations
+157	prediction	CDS	9	38	.	+	0	Parent=157
+##gff-version 3
+##sequence-region 158 1 580076
+158	prediction	gene	175806	179146	10.0	+	.	ID=158;other=Some,annotations
+158	prediction	CDS	67	657	.	+	0	Parent=158
+##gff-version 3
+##sequence-region 159 1 580076
+159	prediction	gene	179152	180746	10.0	+	.	ID=159;other=Some,annotations
+159	prediction	CDS	97	291	.	+	0	Parent=159
+##gff-version 3
+##sequence-region 160 1 580076
+160	prediction	gene	180747	181018	10.0	+	.	ID=160;other=Some,annotations
+160	prediction	CDS	61	96	.	+	0	Parent=160
+##gff-version 3
+##sequence-region 161 1 580076
+161	prediction	gene	181006	182864	10.0	+	.	ID=161;other=Some,annotations
+161	prediction	CDS	79	222	.	+	0	Parent=161
+##gff-version 3
+##sequence-region 162 1 580076
+162	prediction	gene	182852	183189	10.0	+	.	ID=162;other=Some,annotations
+162	prediction	CDS	243	287	.	+	0	Parent=162
+##gff-version 3
+##sequence-region 163 1 580076
+163	prediction	gene	183215	184053	10.0	+	.	ID=163;other=Some,annotations
+163	prediction	CDS	125	307	.	+	0	Parent=163
+##gff-version 3
+##sequence-region 164 1 580076
+164	prediction	gene	184054	184862	10.0	+	.	ID=164;other=Some,annotations
+164	prediction	CDS	34	36	.	+	0	Parent=164
+##gff-version 3
+##sequence-region 165 1 580076
+165	prediction	gene	184876	186149	10.0	+	.	ID=165;other=Some,annotations
+165	prediction	CDS	117	134	.	+	0	Parent=165
+##gff-version 3
+##sequence-region 166 1 580076
+166	prediction	gene	186137	187263	10.0	+	.	ID=166;other=Some,annotations
+166	prediction	CDS	58	150	.	+	0	Parent=166
+##gff-version 3
+##sequence-region 167 1 580076
+167	prediction	gene	187303	188531	10.0	+	.	ID=167;other=Some,annotations
+167	prediction	CDS	16	78	.	+	0	Parent=167
+##gff-version 3
+##sequence-region 168 1 580076
+168	prediction	gene	188608	189452	10.0	+	.	ID=168;other=Some,annotations
+168	prediction	CDS	9	53	.	+	0	Parent=168
+##gff-version 3
+##sequence-region 169 1 580076
+169	prediction	gene	189493	189956	10.0	+	.	ID=169;other=Some,annotations
+169	prediction	CDS	9	44	.	+	0	Parent=169
+##gff-version 3
+##sequence-region 170 1 580076
+170	prediction	gene	190047	190366	10.0	+	.	ID=170;other=Some,annotations
+170	prediction	CDS	130	249	.	+	0	Parent=170
+##gff-version 3
+##sequence-region 171 1 580076
+171	prediction	gene	190371	191143	10.0	+	.	ID=171;other=Some,annotations
+171	prediction	CDS	50	151	.	+	0	Parent=171
+##gff-version 3
+##sequence-region 172 1 580076
+172	prediction	gene	191144	191778	10.0	+	.	ID=172;other=Some,annotations
+172	prediction	CDS	149	553	.	+	0	Parent=172
+##gff-version 3
+##sequence-region 173 1 580076
+173	prediction	gene	191783	192102	10.0	+	.	ID=173;other=Some,annotations
+173	prediction	CDS	16	48	.	+	0	Parent=173
+##gff-version 3
+##sequence-region 174 1 580076
+174	prediction	gene	192103	192959	10.0	+	.	ID=174;other=Some,annotations
+174	prediction	CDS	77	244	.	+	0	Parent=174
+##gff-version 3
+##sequence-region 176 1 580076
+176	prediction	gene	193226	193659	10.0	+	.	ID=176;other=Some,annotations
+176	prediction	CDS	21	32	.	+	0	Parent=176
+##gff-version 3
+##sequence-region 177 1 580076
+177	prediction	gene	193663	194468	10.0	+	.	ID=177;other=Some,annotations
+177	prediction	CDS	103	141	.	+	0	Parent=177
+##gff-version 3
+##sequence-region 178 1 580076
+178	prediction	gene	194475	194890	10.0	+	.	ID=178;other=Some,annotations
+178	prediction	CDS	4	117	.	+	0	Parent=178
+##gff-version 3
+##sequence-region 179 1 580076
+179	prediction	gene	194891	195492	10.0	+	.	ID=179;other=Some,annotations
+179	prediction	CDS	84	128	.	+	0	Parent=179
+##gff-version 3
+##sequence-region 180 1 580076
+180	prediction	gene	195493	195749	10.0	+	.	ID=180;other=Some,annotations
+180	prediction	CDS	132	185	.	+	0	Parent=180
+##gff-version 3
+##sequence-region 181 1 580076
+181	prediction	gene	195766	196121	10.0	+	.	ID=181;other=Some,annotations
+181	prediction	CDS	26	85	.	+	0	Parent=181
+##gff-version 3
+##sequence-region 182 1 580076
+182	prediction	gene	196122	196447	10.0	+	.	ID=182;other=Some,annotations
+182	prediction	CDS	125	199	.	+	0	Parent=182
+##gff-version 3
+##sequence-region 183 1 580076
+183	prediction	gene	196454	196995	10.0	+	.	ID=183;other=Some,annotations
+183	prediction	CDS	179	247	.	+	0	Parent=183
+##gff-version 3
+##sequence-region 184 1 580076
+184	prediction	gene	196999	197183	10.0	+	.	ID=184;other=Some,annotations
+184	prediction	CDS	52	186	.	+	0	Parent=184
+##gff-version 3
+##sequence-region 185 1 580076
+185	prediction	gene	197178	197602	10.0	+	.	ID=185;other=Some,annotations
+185	prediction	CDS	95	214	.	+	0	Parent=185
+##gff-version 3
+##sequence-region 186 1 580076
+186	prediction	gene	197610	198163	10.0	+	.	ID=186;other=Some,annotations
+186	prediction	CDS	74	88	.	+	0	Parent=186
+##gff-version 3
+##sequence-region 187 1 580076
+187	prediction	gene	198166	198512	10.0	+	.	ID=187;other=Some,annotations
+187	prediction	CDS	82	339	.	+	0	Parent=187
+##gff-version 3
+##sequence-region 188 1 580076
+188	prediction	gene	198518	199152	10.0	+	.	ID=188;other=Some,annotations
+188	prediction	CDS	17	298	.	+	0	Parent=188
+##gff-version 3
+##sequence-region 189 1 580076
+189	prediction	gene	199159	199610	10.0	+	.	ID=189;other=Some,annotations
+189	prediction	CDS	7	240	.	+	0	Parent=189
+##gff-version 3
+##sequence-region 190 1 580076
+190	prediction	gene	199611	201037	10.0	+	.	ID=190;other=Some,annotations
+190	prediction	CDS	49	180	.	+	0	Parent=190
+##gff-version 3
+##sequence-region 191 1 580076
+191	prediction	gene	201032	201675	10.0	+	.	ID=191;other=Some,annotations
+191	prediction	CDS	56	241	.	+	0	Parent=191
+##gff-version 3
+##sequence-region 192 1 580076
+192	prediction	gene	201679	202424	10.0	+	.	ID=192;other=Some,annotations
+192	prediction	CDS	80	136	.	+	0	Parent=192
+##gff-version 3
+##sequence-region 193 1 580076
+193	prediction	gene	202425	202636	10.0	+	.	ID=193;other=Some,annotations
+193	prediction	CDS	34	99	.	+	0	Parent=193
+##gff-version 3
+##sequence-region 194 1 580076
+194	prediction	gene	202761	203134	10.0	+	.	ID=194;other=Some,annotations
+194	prediction	CDS	60	62	.	+	0	Parent=194
+##gff-version 3
+##sequence-region 195 1 580076
+195	prediction	gene	203135	203499	10.0	+	.	ID=195;other=Some,annotations
+195	prediction	CDS	65	73	.	+	0	Parent=195
+##gff-version 3
+##sequence-region 196 1 580076
+196	prediction	gene	203516	204501	10.0	+	.	ID=196;other=Some,annotations
+196	prediction	CDS	18	23	.	+	0	Parent=196
+##gff-version 3
+##sequence-region 197 1 580076
+197	prediction	gene	204515	204885	10.0	+	.	ID=197;other=Some,annotations
+197	prediction	CDS	6	8	.	+	0	Parent=197
+##gff-version 3
+##sequence-region 198 1 580076
+198	prediction	gene	204873	205696	10.0	+	.	ID=198;other=Some,annotations
+198	prediction	CDS	4	216	.	+	0	Parent=198
+##gff-version 3
+##sequence-region 199 1 580076
+199	prediction	gene	205682	206595	10.0	+	.	ID=199;other=Some,annotations
+199	prediction	CDS	125	178	.	+	0	Parent=199
+##gff-version 3
+##sequence-region 200 1 580076
+200	prediction	gene	206589	207850	10.0	+	.	ID=200;other=Some,annotations
+200	prediction	CDS	62	100	.	+	0	Parent=200
+##gff-version 3
+##sequence-region 201 1 580076
+201	prediction	gene	207844	208577	10.0	+	.	ID=201;other=Some,annotations
+201	prediction	CDS	9	17	.	+	0	Parent=201
+##gff-version 3
+##sequence-region 202 1 580076
+202	prediction	gene	208568	210390	10.0	+	.	ID=202;other=Some,annotations
+202	prediction	CDS	12	71	.	+	0	Parent=202
+##gff-version 3
+##sequence-region 203 1 580076
+203	prediction	gene	210392	211344	10.0	+	.	ID=203;other=Some,annotations
+203	prediction	CDS	47	271	.	+	0	Parent=203
+##gff-version 3
+##sequence-region 204 1 580076
+204	prediction	gene	211326	211435	10.0	-	.	ID=204;other=Some,annotations
+204	prediction	CDS	85	111	.	-	0	Parent=204
+##gff-version 3
+##sequence-region 205 1 580076
+205	prediction	gene	211445	213549	10.0	+	.	ID=205;other=Some,annotations
+205	prediction	CDS	56	466	.	+	0	Parent=205
+##gff-version 3
+##sequence-region 206 1 580076
+206	prediction	gene	213595	214571	10.0	+	.	ID=206;other=Some,annotations
+206	prediction	CDS	173	175	.	+	0	Parent=206
+##gff-version 3
+##sequence-region 207 1 580076
+207	prediction	gene	214829	215529	10.0	+	.	ID=207;other=Some,annotations
+207	prediction	CDS	110	208	.	+	0	Parent=207
+##gff-version 3
+##sequence-region 208 1 580076
+208	prediction	gene	215502	215881	10.0	+	.	ID=208;other=Some,annotations
+208	prediction	CDS	33	44	.	+	0	Parent=208
+##gff-version 3
+##sequence-region 209 1 580076
+209	prediction	gene	216017	216768	10.0	+	.	ID=209;other=Some,annotations
+209	prediction	CDS	170	250	.	+	0	Parent=209
+##gff-version 3
+##sequence-region 210 1 580076
+210	prediction	gene	216762	218518	10.0	+	.	ID=210;other=Some,annotations
+210	prediction	CDS	112	270	.	+	0	Parent=210
+##gff-version 3
+##sequence-region 211 1 580076
+211	prediction	gene	218522	219510	10.0	+	.	ID=211;other=Some,annotations
+211	prediction	CDS	55	180	.	+	0	Parent=211
+##gff-version 3
+##sequence-region 212 1 580076
+212	prediction	gene	219483	220438	10.0	+	.	ID=212;other=Some,annotations
+212	prediction	CDS	16	36	.	+	0	Parent=212
+##gff-version 3
+##sequence-region 214 1 580076
+214	prediction	gene	220608	221563	10.0	+	.	ID=214;other=Some,annotations
+214	prediction	CDS	203	280	.	+	0	Parent=214
+##gff-version 3
+##sequence-region 215 1 580076
+215	prediction	gene	221571	225904	10.0	+	.	ID=215;other=Some,annotations
+215	prediction	CDS	59	256	.	+	0	Parent=215
+##gff-version 3
+##sequence-region 216 1 580076
+216	prediction	gene	225907	229067	10.0	+	.	ID=216;other=Some,annotations
+216	prediction	CDS	36	137	.	+	0	Parent=216
+##gff-version 3
+##sequence-region 217 1 580076
+217	prediction	gene	229169	229335	10.0	+	.	ID=217;other=Some,annotations
+217	prediction	CDS	61	102	.	+	0	Parent=217
+##gff-version 3
+##sequence-region 218 1 580076
+218	prediction	gene	229339	229439	10.0	+	.	ID=218;other=Some,annotations
+218	prediction	CDS	8	28	.	+	0	Parent=218
+##gff-version 3
+##sequence-region 220 1 580076
+220	prediction	gene	229989	230482	10.0	+	.	ID=220;other=Some,annotations
+220	prediction	CDS	44	262	.	+	0	Parent=220
+##gff-version 3
+##sequence-region 221 1 580076
+221	prediction	gene	230652	231370	10.0	+	.	ID=221;other=Some,annotations
+221	prediction	CDS	8	79	.	+	0	Parent=221
+##gff-version 3
+##sequence-region 222 1 580076
+222	prediction	gene	232010	233034	10.0	+	.	ID=222;other=Some,annotations
+222	prediction	CDS	23	40	.	+	0	Parent=222
+##gff-version 3
+##sequence-region 223 1 580076
+223	prediction	gene	233039	235458	10.0	+	.	ID=223;other=Some,annotations
+223	prediction	CDS	132	158	.	+	0	Parent=223
+##gff-version 3
+##sequence-region 224 1 580076
+224	prediction	gene	235518	236062	10.0	+	.	ID=224;other=Some,annotations
+224	prediction	CDS	98	328	.	+	0	Parent=224
+##gff-version 3
+##sequence-region 225 1 580076
+225	prediction	gene	236066	236244	10.0	+	.	ID=225;other=Some,annotations
+225	prediction	CDS	74	97	.	+	0	Parent=225
+##gff-version 3
+##sequence-region 226 1 580076
+226	prediction	gene	236248	236621	10.0	+	.	ID=226;other=Some,annotations
+226	prediction	CDS	20	241	.	+	0	Parent=226
+##gff-version 3
+##sequence-region 227 1 580076
+227	prediction	gene	236594	237300	10.0	-	.	ID=227;other=Some,annotations
+227	prediction	CDS	188	256	.	-	0	Parent=227
+##gff-version 3
+##sequence-region 228 1 580076
+228	prediction	gene	237348	239152	10.0	+	.	ID=228;other=Some,annotations
+228	prediction	CDS	99	137	.	+	0	Parent=228
+##gff-version 3
+##sequence-region 229 1 580076
+229	prediction	gene	239165	239817	10.0	+	.	ID=229;other=Some,annotations
+229	prediction	CDS	163	273	.	+	0	Parent=229
+##gff-version 3
+##sequence-region 230 1 580076
+230	prediction	gene	239828	240195	10.0	+	.	ID=230;other=Some,annotations
+230	prediction	CDS	61	369	.	+	0	Parent=230
+##gff-version 3
+##sequence-region 231 1 580076
+231	prediction	gene	240324	242224	10.0	+	.	ID=231;other=Some,annotations
+231	prediction	CDS	12	26	.	+	0	Parent=231
+##gff-version 3
+##sequence-region 232 1 580076
+232	prediction	gene	242225	244569	10.0	+	.	ID=232;other=Some,annotations
+232	prediction	CDS	78	80	.	+	0	Parent=232
+##gff-version 3
+##sequence-region 233 1 580076
+233	prediction	gene	244567	245597	10.0	-	.	ID=233;other=Some,annotations
+233	prediction	CDS	178	180	.	-	0	Parent=233
+##gff-version 3
+##sequence-region 234 1 580076
+234	prediction	gene	245634	247426	10.0	+	.	ID=234;other=Some,annotations
+234	prediction	CDS	329	337	.	+	0	Parent=234
+##gff-version 3
+##sequence-region 235 1 580076
+235	prediction	gene	247408	247910	10.0	+	.	ID=235;other=Some,annotations
+235	prediction	CDS	38	130	.	+	0	Parent=235
+##gff-version 3
+##sequence-region 236 1 580076
+236	prediction	gene	247904	248493	10.0	-	.	ID=236;other=Some,annotations
+236	prediction	CDS	38	127	.	-	0	Parent=236
+##gff-version 3
+##sequence-region 237 1 580076
+237	prediction	gene	248478	249403	10.0	-	.	ID=237;other=Some,annotations
+237	prediction	CDS	5	64	.	-	0	Parent=237
+##gff-version 3
+##sequence-region 238 1 580076
+238	prediction	gene	249404	249948	10.0	-	.	ID=238;other=Some,annotations
+238	prediction	CDS	99	230	.	-	0	Parent=238
+##gff-version 3
+##sequence-region 239 1 580076
+239	prediction	gene	250150	250808	10.0	+	.	ID=239;other=Some,annotations
+239	prediction	CDS	48	125	.	+	0	Parent=239
+##gff-version 3
+##sequence-region 240 1 580076
+240	prediction	gene	250809	250996	10.0	+	.	ID=240;other=Some,annotations
+240	prediction	CDS	73	183	.	+	0	Parent=240
+##gff-version 3
+##sequence-region 241 1 580076
+241	prediction	gene	250999	251441	10.0	+	.	ID=241;other=Some,annotations
+241	prediction	CDS	29	37	.	+	0	Parent=241
+##gff-version 3
+##sequence-region 242 1 580076
+242	prediction	gene	251445	251788	10.0	+	.	ID=242;other=Some,annotations
+242	prediction	CDS	188	256	.	+	0	Parent=242
+##gff-version 3
+##sequence-region 243 1 580076
+243	prediction	gene	251782	252587	10.0	+	.	ID=243;other=Some,annotations
+243	prediction	CDS	46	144	.	+	0	Parent=243
+##gff-version 3
+##sequence-region 244 1 580076
+244	prediction	gene	252554	253995	10.0	+	.	ID=244;other=Some,annotations
+244	prediction	CDS	5	178	.	+	0	Parent=244
+##gff-version 3
+##sequence-region 245 1 580076
+245	prediction	gene	253980	254602	10.0	+	.	ID=245;other=Some,annotations
+245	prediction	CDS	29	85	.	+	0	Parent=245
+##gff-version 3
+##sequence-region 246 1 580076
+246	prediction	gene	254622	255592	10.0	+	.	ID=246;other=Some,annotations
+246	prediction	CDS	241	390	.	+	0	Parent=246
+##gff-version 3
+##sequence-region 247 1 580076
+247	prediction	gene	255596	257121	10.0	+	.	ID=247;other=Some,annotations
+247	prediction	CDS	35	709	.	+	0	Parent=247
+##gff-version 3
+##sequence-region 248 1 580076
+248	prediction	gene	257566	257894	10.0	-	.	ID=248;other=Some,annotations
+248	prediction	CDS	133	159	.	-	0	Parent=248
+##gff-version 3
+##sequence-region 249 1 580076
+249	prediction	gene	258042	259159	10.0	+	.	ID=249;other=Some,annotations
+249	prediction	CDS	78	506	.	+	0	Parent=249
+##gff-version 3
+##sequence-region 250 1 580076
+250	prediction	gene	259178	264594	10.0	+	.	ID=250;other=Some,annotations
+250	prediction	CDS	355	372	.	+	0	Parent=250
+##gff-version 3
+##sequence-region 251 1 580076
+251	prediction	gene	264598	265637	10.0	+	.	ID=251;other=Some,annotations
+251	prediction	CDS	149	184	.	+	0	Parent=251
+##gff-version 3
+##sequence-region 252 1 580076
+252	prediction	gene	265631	266043	10.0	+	.	ID=252;other=Some,annotations
+252	prediction	CDS	80	277	.	+	0	Parent=252
+##gff-version 3
+##sequence-region 254 1 580076
+254	prediction	gene	266628	267091	10.0	+	.	ID=254;other=Some,annotations
+254	prediction	CDS	50	238	.	+	0	Parent=254
+##gff-version 3
+##sequence-region 255 1 580076
+255	prediction	gene	267082	268010	10.0	+	.	ID=255;other=Some,annotations
+255	prediction	CDS	31	81	.	+	0	Parent=255
+##gff-version 3
+##sequence-region 256 1 580076
+256	prediction	gene	267980	269247	10.0	+	.	ID=256;other=Some,annotations
+256	prediction	CDS	36	50	.	+	0	Parent=256
+##gff-version 3
+##sequence-region 257 1 580076
+257	prediction	gene	269251	270359	10.0	+	.	ID=257;other=Some,annotations
+257	prediction	CDS	169	252	.	+	0	Parent=257
+##gff-version 3
+##sequence-region 258 1 580076
+258	prediction	gene	270406	271874	10.0	+	.	ID=258;other=Some,annotations
+258	prediction	CDS	40	216	.	+	0	Parent=258
+##gff-version 3
+##sequence-region 259 1 580076
+259	prediction	gene	271841	273318	10.0	+	.	ID=259;other=Some,annotations
+259	prediction	CDS	254	304	.	+	0	Parent=259
+##gff-version 3
+##sequence-region 260 1 580076
+260	prediction	gene	273299	273462	10.0	-	.	ID=260;other=Some,annotations
+260	prediction	CDS	20	85	.	-	0	Parent=260
+##gff-version 3
+##sequence-region 261 1 580076
+261	prediction	gene	273456	273745	10.0	+	.	ID=261;other=Some,annotations
+261	prediction	CDS	46	84	.	+	0	Parent=261
+##gff-version 3
+##sequence-region 262 1 580076
+262	prediction	gene	273791	274653	10.0	+	.	ID=262;other=Some,annotations
+262	prediction	CDS	62	103	.	+	0	Parent=262
+##gff-version 3
+##sequence-region 263 1 580076
+263	prediction	gene	274675	275135	10.0	+	.	ID=263;other=Some,annotations
+263	prediction	CDS	37	171	.	+	0	Parent=263
+##gff-version 3
+##sequence-region 264 1 580076
+264	prediction	gene	275142	276163	10.0	+	.	ID=264;other=Some,annotations
+264	prediction	CDS	21	137	.	+	0	Parent=264
+##gff-version 3
+##sequence-region 265 1 580076
+265	prediction	gene	276168	276628	10.0	+	.	ID=265;other=Some,annotations
+265	prediction	CDS	161	298	.	+	0	Parent=265
+##gff-version 3
+##sequence-region 266 1 580076
+266	prediction	gene	276648	278812	10.0	+	.	ID=266;other=Some,annotations
+266	prediction	CDS	23	307	.	+	0	Parent=266
+##gff-version 3
+##sequence-region 267 1 580076
+267	prediction	gene	278906	279207	10.0	+	.	ID=267;other=Some,annotations
+267	prediction	CDS	144	173	.	+	0	Parent=267
+##gff-version 3
+##sequence-region 268 1 580076
+268	prediction	gene	279201	279499	10.0	+	.	ID=268;other=Some,annotations
+268	prediction	CDS	146	157	.	+	0	Parent=268
+##gff-version 3
+##sequence-region 269 1 580076
+269	prediction	gene	279493	279806	10.0	+	.	ID=269;other=Some,annotations
+269	prediction	CDS	15	26	.	+	0	Parent=269
+##gff-version 3
+##sequence-region 270 1 580076
+270	prediction	gene	279800	280674	10.0	+	.	ID=270;other=Some,annotations
+270	prediction	CDS	10	42	.	+	0	Parent=270
+##gff-version 3
+##sequence-region 271 1 580076
+271	prediction	gene	280665	281086	10.0	+	.	ID=271;other=Some,annotations
+271	prediction	CDS	165	179	.	+	0	Parent=271
+##gff-version 3
+##sequence-region 272 1 580076
+272	prediction	gene	281080	281963	10.0	+	.	ID=272;other=Some,annotations
+272	prediction	CDS	73	93	.	+	0	Parent=272
+##gff-version 3
+##sequence-region 273 1 580076
+273	prediction	gene	281994	283327	10.0	+	.	ID=273;other=Some,annotations
+273	prediction	CDS	9	62	.	+	0	Parent=273
+##gff-version 3
+##sequence-region 274 1 580076
+274	prediction	gene	283397	285783	10.0	+	.	ID=274;other=Some,annotations
+274	prediction	CDS	8	310	.	+	0	Parent=274
+##gff-version 3
+##sequence-region 275 1 580076
+275	prediction	gene	285781	286832	10.0	-	.	ID=275;other=Some,annotations
+275	prediction	CDS	152	367	.	-	0	Parent=275
+##gff-version 3
+##sequence-region 276 1 580076
+276	prediction	gene	286886	288747	10.0	+	.	ID=276;other=Some,annotations
+276	prediction	CDS	35	76	.	+	0	Parent=276
+##gff-version 3
+##sequence-region 277 1 580076
+277	prediction	gene	288754	290645	10.0	+	.	ID=277;other=Some,annotations
+277	prediction	CDS	42	44	.	+	0	Parent=277
+##gff-version 3
+##sequence-region 278 1 580076
+278	prediction	gene	290649	291328	10.0	+	.	ID=278;other=Some,annotations
+278	prediction	CDS	112	210	.	+	0	Parent=278
+##gff-version 3
+##sequence-region 279 1 580076
+279	prediction	gene	291335	293445	10.0	+	.	ID=279;other=Some,annotations
+279	prediction	CDS	68	241	.	+	0	Parent=279
+##gff-version 3
+##sequence-region 280 1 580076
+280	prediction	gene	293449	293945	10.0	+	.	ID=280;other=Some,annotations
+280	prediction	CDS	147	149	.	+	0	Parent=280
+##gff-version 3
+##sequence-region 281 1 580076
+281	prediction	gene	293939	294783	10.0	+	.	ID=281;other=Some,annotations
+281	prediction	CDS	131	325	.	+	0	Parent=281
+##gff-version 3
+##sequence-region 282 1 580076
+282	prediction	gene	294768	295486	10.0	-	.	ID=282;other=Some,annotations
+282	prediction	CDS	130	132	.	-	0	Parent=282
+##gff-version 3
+##sequence-region 283 1 580076
+283	prediction	gene	295474	296129	10.0	-	.	ID=283;other=Some,annotations
+283	prediction	CDS	56	229	.	-	0	Parent=283
+##gff-version 3
+##sequence-region 284 1 580076
+284	prediction	gene	296114	297606	10.0	-	.	ID=284;other=Some,annotations
+284	prediction	CDS	7	219	.	-	0	Parent=284
+##gff-version 3
+##sequence-region 285 1 580076
+285	prediction	gene	297652	299474	10.0	-	.	ID=285;other=Some,annotations
+285	prediction	CDS	98	127	.	-	0	Parent=285
+##gff-version 3
+##sequence-region 286 1 580076
+286	prediction	gene	299465	300804	10.0	-	.	ID=286;other=Some,annotations
+286	prediction	CDS	176	232	.	-	0	Parent=286
+##gff-version 3
+##sequence-region 287 1 580076
+287	prediction	gene	300825	301552	10.0	-	.	ID=287;other=Some,annotations
+287	prediction	CDS	64	222	.	-	0	Parent=287
+##gff-version 3
+##sequence-region 288 1 580076
+288	prediction	gene	301556	302865	10.0	-	.	ID=288;other=Some,annotations
+288	prediction	CDS	55	144	.	-	0	Parent=288
+##gff-version 3
+##sequence-region 289 1 580076
+289	prediction	gene	302847	304822	10.0	-	.	ID=289;other=Some,annotations
+289	prediction	CDS	17	25	.	-	0	Parent=289
+##gff-version 3
+##sequence-region 290 1 580076
+290	prediction	gene	305002	306098	10.0	+	.	ID=290;other=Some,annotations
+290	prediction	CDS	161	181	.	+	0	Parent=290
+##gff-version 3
+##sequence-region 291 1 580076
+291	prediction	gene	306203	306654	10.0	+	.	ID=291;other=Some,annotations
+291	prediction	CDS	71	97	.	+	0	Parent=291
+##gff-version 3
+##sequence-region 292 1 580076
+292	prediction	gene	306822	307591	10.0	+	.	ID=292;other=Some,annotations
+292	prediction	CDS	72	92	.	+	0	Parent=292
+##gff-version 3
+##sequence-region 293 1 580076
+293	prediction	gene	307638	307930	10.0	+	.	ID=293;other=Some,annotations
+293	prediction	CDS	68	145	.	+	0	Parent=293
+##gff-version 3
+##sequence-region 294 1 580076
+294	prediction	gene	307931	309009	10.0	+	.	ID=294;other=Some,annotations
+294	prediction	CDS	50	151	.	+	0	Parent=294
+##gff-version 3
+##sequence-region 295 1 580076
+295	prediction	gene	309011	310380	10.0	+	.	ID=295;other=Some,annotations
+295	prediction	CDS	39	110	.	+	0	Parent=295
+##gff-version 3
+##sequence-region 296 1 580076
+296	prediction	gene	310512	312808	10.0	+	.	ID=296;other=Some,annotations
+296	prediction	CDS	55	87	.	+	0	Parent=296
+##gff-version 3
+##sequence-region 298 1 580076
+298	prediction	gene	313368	313879	10.0	+	.	ID=298;other=Some,annotations
+298	prediction	CDS	44	190	.	+	0	Parent=298
+##gff-version 3
+##sequence-region 299 1 580076
+299	prediction	gene	314226	315232	10.0	+	.	ID=299;other=Some,annotations
+299	prediction	CDS	8	190	.	+	0	Parent=299
+##gff-version 3
+##sequence-region 302 1 580076
+302	prediction	gene	315702	318325	10.0	+	.	ID=302;other=Some,annotations
+302	prediction	CDS	13	21	.	+	0	Parent=302
+##gff-version 3
+##sequence-region 303 1 580076
+303	prediction	gene	318333	319207	10.0	+	.	ID=303;other=Some,annotations
+303	prediction	CDS	39	143	.	+	0	Parent=303
+##gff-version 3
+##sequence-region 304 1 580076
+304	prediction	gene	319208	320061	10.0	+	.	ID=304;other=Some,annotations
+304	prediction	CDS	23	118	.	+	0	Parent=304
+##gff-version 3
+##sequence-region 305 1 580076
+305	prediction	gene	320178	321052	10.0	+	.	ID=305;other=Some,annotations
+305	prediction	CDS	41	70	.	+	0	Parent=305
+##gff-version 3
+##sequence-region 306 1 580076
+306	prediction	gene	321047	321642	10.0	+	.	ID=306;other=Some,annotations
+306	prediction	CDS	114	143	.	+	0	Parent=306
+##gff-version 3
+##sequence-region 307 1 580076
+307	prediction	gene	321579	322414	10.0	-	.	ID=307;other=Some,annotations
+307	prediction	CDS	52	501	.	-	0	Parent=307
+##gff-version 3
+##sequence-region 308 1 580076
+308	prediction	gene	322434	324811	10.0	-	.	ID=308;other=Some,annotations
+308	prediction	CDS	354	425	.	-	0	Parent=308
+##gff-version 3
+##sequence-region 309 1 580076
+309	prediction	gene	324813	325159	10.0	-	.	ID=309;other=Some,annotations
+309	prediction	CDS	125	169	.	-	0	Parent=309
+##gff-version 3
+##sequence-region 310 1 580076
+310	prediction	gene	325194	325879	10.0	-	.	ID=310;other=Some,annotations
+310	prediction	CDS	63	95	.	-	0	Parent=310
+##gff-version 3
+##sequence-region 311 1 580076
+311	prediction	gene	326031	327052	10.0	-	.	ID=311;other=Some,annotations
+311	prediction	CDS	214	222	.	-	0	Parent=311
+##gff-version 3
+##sequence-region 312 1 580076
+312	prediction	gene	327046	327431	10.0	-	.	ID=312;other=Some,annotations
+312	prediction	CDS	20	115	.	-	0	Parent=312
+##gff-version 3
+##sequence-region 313 1 580076
+313	prediction	gene	327434	328443	10.0	-	.	ID=313;other=Some,annotations
+313	prediction	CDS	177	290	.	-	0	Parent=313
+##gff-version 3
+##sequence-region 314 1 580076
+314	prediction	gene	328455	329827	10.0	-	.	ID=314;other=Some,annotations
+314	prediction	CDS	205	387	.	-	0	Parent=314
+##gff-version 3
+##sequence-region 315 1 580076
+315	prediction	gene	329832	330985	10.0	-	.	ID=315;other=Some,annotations
+315	prediction	CDS	113	130	.	-	0	Parent=315
+##gff-version 3
+##sequence-region 316 1 580076
+316	prediction	gene	331236	332215	10.0	-	.	ID=316;other=Some,annotations
+316	prediction	CDS	733	762	.	-	0	Parent=316
+##gff-version 3
+##sequence-region 317 1 580076
+317	prediction	gene	332234	333309	10.0	-	.	ID=317;other=Some,annotations
+317	prediction	CDS	5	91	.	-	0	Parent=317
+##gff-version 3
+##sequence-region 318 1 580076
+318	prediction	gene	333338	334773	10.0	-	.	ID=318;other=Some,annotations
+318	prediction	CDS	21	374	.	-	0	Parent=318
+##gff-version 3
+##sequence-region 319 1 580076
+319	prediction	gene	334857	335434	10.0	-	.	ID=319;other=Some,annotations
+319	prediction	CDS	184	279	.	-	0	Parent=319
+##gff-version 3
+##sequence-region 320 1 580076
+320	prediction	gene	335413	338324	10.0	-	.	ID=320;other=Some,annotations
+320	prediction	CDS	19	27	.	-	0	Parent=320
+##gff-version 3
+##sequence-region 321 1 580076
+321	prediction	gene	338368	340529	10.0	+	.	ID=321;other=Some,annotations
+321	prediction	CDS	56	73	.	+	0	Parent=321
+##gff-version 3
+##sequence-region 322 1 580076
+322	prediction	gene	340527	341182	10.0	-	.	ID=322;other=Some,annotations
+322	prediction	CDS	303	374	.	-	0	Parent=322
+##gff-version 3
+##sequence-region 323 1 580076
+323	prediction	gene	341176	341972	10.0	-	.	ID=323;other=Some,annotations
+323	prediction	CDS	38	73	.	-	0	Parent=323
+##gff-version 3
+##sequence-region 324 1 580076
+324	prediction	gene	342034	343703	10.0	-	.	ID=324;other=Some,annotations
+324	prediction	CDS	62	79	.	-	0	Parent=324
+##gff-version 3
+##sequence-region 325 1 580076
+325	prediction	gene	344366	344850	10.0	-	.	ID=325;other=Some,annotations
+325	prediction	CDS	96	194	.	-	0	Parent=325
+##gff-version 3
+##sequence-region 326 1 580076
+326	prediction	gene	345032	345165	10.0	+	.	ID=326;other=Some,annotations
+326	prediction	CDS	76	135	.	+	0	Parent=326
+##gff-version 3
+##sequence-region 327 1 580076
+327	prediction	gene	345183	346633	10.0	+	.	ID=327;other=Some,annotations
+327	prediction	CDS	86	169	.	+	0	Parent=327
+##gff-version 3
+##sequence-region 328 1 580076
+328	prediction	gene	346855	347252	10.0	+	.	ID=328;other=Some,annotations
+328	prediction	CDS	8	40	.	+	0	Parent=328
+##gff-version 3
+##sequence-region 329 1 580076
+329	prediction	gene	347273	348258	10.0	+	.	ID=329;other=Some,annotations
+329	prediction	CDS	104	253	.	+	0	Parent=329
+##gff-version 3
+##sequence-region 330 1 580076
+330	prediction	gene	348262	348851	10.0	+	.	ID=330;other=Some,annotations
+330	prediction	CDS	92	298	.	+	0	Parent=330
+##gff-version 3
+##sequence-region 332 1 580076
+332	prediction	gene	349292	349677	10.0	+	.	ID=332;other=Some,annotations
+332	prediction	CDS	116	154	.	+	0	Parent=332
+##gff-version 3
+##sequence-region 333 1 580076
+333	prediction	gene	349798	350327	10.0	+	.	ID=333;other=Some,annotations
+333	prediction	CDS	41	274	.	+	0	Parent=333
+##gff-version 3
+##sequence-region 334 1 580076
+334	prediction	gene	350453	351825	10.0	+	.	ID=334;other=Some,annotations
+334	prediction	CDS	102	104	.	+	0	Parent=334
+##gff-version 3
+##sequence-region 335 1 580076
+335	prediction	gene	351792	353035	10.0	-	.	ID=335;other=Some,annotations
+335	prediction	CDS	41	106	.	-	0	Parent=335
+##gff-version 3
+##sequence-region 336 1 580076
+336	prediction	gene	353300	353682	10.0	-	.	ID=336;other=Some,annotations
+336	prediction	CDS	35	70	.	-	0	Parent=336
+##gff-version 3
+##sequence-region 337 1 580076
+337	prediction	gene	354025	355130	10.0	+	.	ID=337;other=Some,annotations
+337	prediction	CDS	17	58	.	+	0	Parent=337
+##gff-version 3
+##sequence-region 338 1 580076
+338	prediction	gene	355109	355857	10.0	+	.	ID=338;other=Some,annotations
+338	prediction	CDS	57	83	.	+	0	Parent=338
+##gff-version 3
+##sequence-region 339 1 580076
+339	prediction	gene	355848	357478	10.0	+	.	ID=339;other=Some,annotations
+339	prediction	CDS	102	155	.	+	0	Parent=339
+##gff-version 3
+##sequence-region 340 1 580076
+340	prediction	gene	357476	357891	10.0	-	.	ID=340;other=Some,annotations
+340	prediction	CDS	117	338	.	-	0	Parent=340
+##gff-version 3
+##sequence-region 341 1 580076
+341	prediction	gene	357892	360593	10.0	-	.	ID=341;other=Some,annotations
+341	prediction	CDS	44	73	.	-	0	Parent=341
+##gff-version 3
+##sequence-region 342 1 580076
+342	prediction	gene	360652	361385	10.0	-	.	ID=342;other=Some,annotations
+342	prediction	CDS	101	547	.	-	0	Parent=342
+##gff-version 3
+##sequence-region 343 1 580076
+343	prediction	gene	361379	362796	10.0	-	.	ID=343;other=Some,annotations
+343	prediction	CDS	262	276	.	-	0	Parent=343
+##gff-version 3
+##sequence-region 344 1 580076
+344	prediction	gene	362921	364023	10.0	-	.	ID=344;other=Some,annotations
+344	prediction	CDS	159	338	.	-	0	Parent=344
+##gff-version 3
+##sequence-region 345 1 580076
+345	prediction	gene	364027	364415	10.0	-	.	ID=345;other=Some,annotations
+345	prediction	CDS	71	73	.	-	0	Parent=345
+##gff-version 3
+##sequence-region 346 1 580076
+346	prediction	gene	364536	365575	10.0	-	.	ID=346;other=Some,annotations
+346	prediction	CDS	240	296	.	-	0	Parent=346
+##gff-version 3
+##sequence-region 347 1 580076
+347	prediction	gene	365583	368530	10.0	-	.	ID=347;other=Some,annotations
+347	prediction	CDS	201	419	.	-	0	Parent=347
+##gff-version 3
+##sequence-region 348 1 580076
+348	prediction	gene	368734	369695	10.0	-	.	ID=348;other=Some,annotations
+348	prediction	CDS	24	47	.	-	0	Parent=348
+##gff-version 3
+##sequence-region 349 1 580076
+349	prediction	gene	369714	370948	10.0	-	.	ID=349;other=Some,annotations
+349	prediction	CDS	25	135	.	-	0	Parent=349
+##gff-version 3
+##sequence-region 350 1 580076
+350	prediction	gene	370951	371963	10.0	-	.	ID=350;other=Some,annotations
+350	prediction	CDS	257	658	.	-	0	Parent=350
+##gff-version 3
+##sequence-region 351 1 580076
+351	prediction	gene	371995	372947	10.0	-	.	ID=351;other=Some,annotations
+351	prediction	CDS	76	84	.	-	0	Parent=351
+##gff-version 3
+##sequence-region 352 1 580076
+352	prediction	gene	372927	373999	10.0	-	.	ID=352;other=Some,annotations
+352	prediction	CDS	71	583	.	-	0	Parent=352
+##gff-version 3
+##sequence-region 353 1 580076
+353	prediction	gene	373982	374793	10.0	-	.	ID=353;other=Some,annotations
+353	prediction	CDS	15	104	.	-	0	Parent=353
+##gff-version 3
+##sequence-region 354 1 580076
+354	prediction	gene	374920	376706	10.0	-	.	ID=354;other=Some,annotations
+354	prediction	CDS	79	144	.	-	0	Parent=354
+##gff-version 3
+##sequence-region 355 1 580076
+355	prediction	gene	376795	377975	10.0	-	.	ID=355;other=Some,annotations
+355	prediction	CDS	21	50	.	-	0	Parent=355
+##gff-version 3
+##sequence-region 356 1 580076
+356	prediction	gene	377976	381508	10.0	-	.	ID=356;other=Some,annotations
+356	prediction	CDS	26	49	.	-	0	Parent=356
+##gff-version 3
+##sequence-region 357 1 580076
+357	prediction	gene	381494	382725	10.0	-	.	ID=357;other=Some,annotations
+357	prediction	CDS	122	238	.	-	0	Parent=357
+##gff-version 3
+##sequence-region 358 1 580076
+358	prediction	gene	382733	386409	10.0	-	.	ID=358;other=Some,annotations
+358	prediction	CDS	227	316	.	-	0	Parent=358
+##gff-version 3
+##sequence-region 359 1 580076
+359	prediction	gene	386464	387269	10.0	+	.	ID=359;other=Some,annotations
+359	prediction	CDS	86	202	.	+	0	Parent=359
+##gff-version 3
+##sequence-region 360 1 580076
+360	prediction	gene	387277	387893	10.0	-	.	ID=360;other=Some,annotations
+360	prediction	CDS	63	170	.	-	0	Parent=360
+##gff-version 3
+##sequence-region 361 1 580076
+361	prediction	gene	387917	391335	10.0	-	.	ID=361;other=Some,annotations
+361	prediction	CDS	134	178	.	-	0	Parent=361
+##gff-version 3
+##sequence-region 362 1 580076
+362	prediction	gene	391396	392258	10.0	-	.	ID=362;other=Some,annotations
+362	prediction	CDS	300	404	.	-	0	Parent=362
+##gff-version 3
+##sequence-region 363 1 580076
+363	prediction	gene	392304	393634	10.0	-	.	ID=363;other=Some,annotations
+363	prediction	CDS	455	574	.	-	0	Parent=363
+##gff-version 3
+##sequence-region 364 1 580076
+364	prediction	gene	393659	394551	10.0	-	.	ID=364;other=Some,annotations
+364	prediction	CDS	64	297	.	-	0	Parent=364
+##gff-version 3
+##sequence-region 365 1 580076
+365	prediction	gene	394476	395584	10.0	-	.	ID=365;other=Some,annotations
+365	prediction	CDS	2	61	.	-	0	Parent=365
+##gff-version 3
+##sequence-region 366 1 580076
+366	prediction	gene	395626	397424	10.0	-	.	ID=366;other=Some,annotations
+366	prediction	CDS	15	149	.	-	0	Parent=366
+##gff-version 3
+##sequence-region 367 1 580076
+367	prediction	gene	397440	398281	10.0	-	.	ID=367;other=Some,annotations
+367	prediction	CDS	16	90	.	-	0	Parent=367
+##gff-version 3
+##sequence-region 368 1 580076
+368	prediction	gene	398299	398834	10.0	-	.	ID=368;other=Some,annotations
+368	prediction	CDS	196	246	.	-	0	Parent=368
+##gff-version 3
+##sequence-region 369 1 580076
+369	prediction	gene	398939	399798	10.0	-	.	ID=369;other=Some,annotations
+369	prediction	CDS	50	160	.	-	0	Parent=369
+##gff-version 3
+##sequence-region 370 1 580076
+370	prediction	gene	400120	402767	10.0	-	.	ID=370;other=Some,annotations
+370	prediction	CDS	37	48	.	-	0	Parent=370
+##gff-version 3
+##sequence-region 373 1 580076
+373	prediction	gene	403724	405399	10.0	-	.	ID=373;other=Some,annotations
+373	prediction	CDS	30	95	.	-	0	Parent=373
+##gff-version 3
+##sequence-region 374 1 580076
+374	prediction	gene	405457	406139	10.0	+	.	ID=374;other=Some,annotations
+374	prediction	CDS	85	96	.	+	0	Parent=374
+##gff-version 3
+##sequence-region 376 1 580076
+376	prediction	gene	406976	407739	10.0	-	.	ID=376;other=Some,annotations
+376	prediction	CDS	76	105	.	-	0	Parent=376
+##gff-version 3
+##sequence-region 377 1 580076
+377	prediction	gene	407730	408793	10.0	-	.	ID=377;other=Some,annotations
+377	prediction	CDS	14	31	.	-	0	Parent=377
+##gff-version 3
+##sequence-region 378 1 580076
+378	prediction	gene	408794	408954	10.0	-	.	ID=378;other=Some,annotations
+378	prediction	CDS	31	51	.	-	0	Parent=378
+##gff-version 3
+##sequence-region 379 1 580076
+379	prediction	gene	408972	409858	10.0	-	.	ID=379;other=Some,annotations
+379	prediction	CDS	132	140	.	-	0	Parent=379
+##gff-version 3
+##sequence-region 380 1 580076
+380	prediction	gene	409872	410677	10.0	-	.	ID=380;other=Some,annotations
+380	prediction	CDS	85	177	.	-	0	Parent=380
+##gff-version 3
+##sequence-region 381 1 580076
+381	prediction	gene	410665	412934	10.0	-	.	ID=381;other=Some,annotations
+381	prediction	CDS	59	97	.	-	0	Parent=381
+##gff-version 3
+##sequence-region 382 1 580076
+382	prediction	gene	412974	414319	10.0	-	.	ID=382;other=Some,annotations
+382	prediction	CDS	1	15	.	-	0	Parent=382
+##gff-version 3
+##sequence-region 383 1 580076
+383	prediction	gene	414324	414976	10.0	-	.	ID=383;other=Some,annotations
+383	prediction	CDS	14	109	.	-	0	Parent=383
+##gff-version 3
+##sequence-region 384 1 580076
+384	prediction	gene	414986	415623	10.0	-	.	ID=384;other=Some,annotations
+384	prediction	CDS	109	213	.	-	0	Parent=384
+##gff-version 3
+##sequence-region 385 1 580076
+385	prediction	gene	415612	416330	10.0	-	.	ID=385;other=Some,annotations
+385	prediction	CDS	188	688	.	-	0	Parent=385
+##gff-version 3
+##sequence-region 386 1 580076
+386	prediction	gene	416338	416930	10.0	-	.	ID=386;other=Some,annotations
+386	prediction	CDS	95	196	.	-	0	Parent=386
+##gff-version 3
+##sequence-region 387 1 580076
+387	prediction	gene	416968	419480	10.0	-	.	ID=387;other=Some,annotations
+387	prediction	CDS	226	279	.	-	0	Parent=387
+##gff-version 3
+##sequence-region 388 1 580076
+388	prediction	gene	419471	420045	10.0	-	.	ID=388;other=Some,annotations
+388	prediction	CDS	43	207	.	-	0	Parent=388
+##gff-version 3
+##sequence-region 390 1 580076
+390	prediction	gene	420334	421358	10.0	+	.	ID=390;other=Some,annotations
+390	prediction	CDS	33	101	.	+	0	Parent=390
+##gff-version 3
+##sequence-region 391 1 580076
+391	prediction	gene	421468	422693	10.0	+	.	ID=391;other=Some,annotations
+391	prediction	CDS	92	223	.	+	0	Parent=391
+##gff-version 3
+##sequence-region 392 1 580076
+392	prediction	gene	422698	423113	10.0	+	.	ID=392;other=Some,annotations
+392	prediction	CDS	51	80	.	+	0	Parent=392
+##gff-version 3
+##sequence-region 393 1 580076
+393	prediction	gene	423101	426912	10.0	-	.	ID=393;other=Some,annotations
+393	prediction	CDS	192	236	.	-	0	Parent=393
+##gff-version 3
+##sequence-region 394 1 580076
+394	prediction	gene	427091	428112	10.0	-	.	ID=394;other=Some,annotations
+394	prediction	CDS	120	131	.	-	0	Parent=394
+##gff-version 3
+##sequence-region 395 1 580076
+395	prediction	gene	428326	429662	10.0	+	.	ID=395;other=Some,annotations
+395	prediction	CDS	8	76	.	+	0	Parent=395
+##gff-version 3
+##sequence-region 396 1 580076
+396	prediction	gene	429650	430116	10.0	+	.	ID=396;other=Some,annotations
+396	prediction	CDS	86	88	.	+	0	Parent=396
+##gff-version 3
+##sequence-region 398 1 580076
+398	prediction	gene	430581	434458	10.0	-	.	ID=398;other=Some,annotations
+398	prediction	CDS	82	222	.	-	0	Parent=398
+##gff-version 3
+##sequence-region 399 1 580076
+399	prediction	gene	434469	438640	10.0	-	.	ID=399;other=Some,annotations
+399	prediction	CDS	144	239	.	-	0	Parent=399
+##gff-version 3
+##sequence-region 400 1 580076
+400	prediction	gene	438731	439236	10.0	-	.	ID=400;other=Some,annotations
+400	prediction	CDS	338	388	.	-	0	Parent=400
+##gff-version 3
+##sequence-region 401 1 580076
+401	prediction	gene	439316	440355	10.0	-	.	ID=401;other=Some,annotations
+401	prediction	CDS	144	164	.	-	0	Parent=401
+##gff-version 3
+##sequence-region 402 1 580076
+402	prediction	gene	440360	441180	10.0	-	.	ID=402;other=Some,annotations
+402	prediction	CDS	488	490	.	-	0	Parent=402
+##gff-version 3
+##sequence-region 403 1 580076
+403	prediction	gene	441192	443854	10.0	-	.	ID=403;other=Some,annotations
+403	prediction	CDS	31	51	.	-	0	Parent=403
+##gff-version 3
+##sequence-region 404 1 580076
+404	prediction	gene	443923	444422	10.0	+	.	ID=404;other=Some,annotations
+404	prediction	CDS	67	93	.	+	0	Parent=404
+##gff-version 3
+##sequence-region 405 1 580076
+405	prediction	gene	444414	445045	10.0	+	.	ID=405;other=Some,annotations
+405	prediction	CDS	83	94	.	+	0	Parent=405
+##gff-version 3
+##sequence-region 406 1 580076
+406	prediction	gene	445198	446165	10.0	-	.	ID=406;other=Some,annotations
+406	prediction	CDS	3	227	.	-	0	Parent=406
+##gff-version 3
+##sequence-region 407 1 580076
+407	prediction	gene	446619	447790	10.0	+	.	ID=407;other=Some,annotations
+407	prediction	CDS	15	23	.	+	0	Parent=407
+##gff-version 3
+##sequence-region 408 1 580076
+408	prediction	gene	447791	448725	10.0	+	.	ID=408;other=Some,annotations
+408	prediction	CDS	97	123	.	+	0	Parent=408
+##gff-version 3
+##sequence-region 409 1 580076
+409	prediction	gene	448944	449617	10.0	-	.	ID=409;other=Some,annotations
+409	prediction	CDS	8	46	.	-	0	Parent=409
+##gff-version 3
+##sequence-region 410 1 580076
+410	prediction	gene	449666	450219	10.0	+	.	ID=410;other=Some,annotations
+410	prediction	CDS	132	140	.	+	0	Parent=410
+##gff-version 3
+##sequence-region 411 1 580076
+411	prediction	gene	450223	450722	10.0	+	.	ID=411;other=Some,annotations
+411	prediction	CDS	100	168	.	+	0	Parent=411
+##gff-version 3
+##sequence-region 412 1 580076
+412	prediction	gene	450720	451048	10.0	-	.	ID=412;other=Some,annotations
+412	prediction	CDS	15	62	.	-	0	Parent=412
+##gff-version 3
+##sequence-region 413 1 580076
+413	prediction	gene	451198	451610	10.0	+	.	ID=413;other=Some,annotations
+413	prediction	CDS	56	217	.	+	0	Parent=413
+##gff-version 3
+##sequence-region 414 1 580076
+414	prediction	gene	451614	453757	10.0	-	.	ID=414;other=Some,annotations
+414	prediction	CDS	153	242	.	-	0	Parent=414
+##gff-version 3
+##sequence-region 415 1 580076
+415	prediction	gene	453912	454753	10.0	-	.	ID=415;other=Some,annotations
+415	prediction	CDS	205	210	.	-	0	Parent=415
+##gff-version 3
+##sequence-region 416 1 580076
+416	prediction	gene	454767	455947	10.0	-	.	ID=416;other=Some,annotations
+416	prediction	CDS	28	30	.	-	0	Parent=416
+##gff-version 3
+##sequence-region 417 1 580076
+417	prediction	gene	456056	456264	10.0	+	.	ID=417;other=Some,annotations
+417	prediction	CDS	60	158	.	+	0	Parent=417
+##gff-version 3
+##sequence-region 418 1 580076
+418	prediction	gene	456328	456752	10.0	+	.	ID=418;other=Some,annotations
+418	prediction	CDS	31	42	.	+	0	Parent=418
+##gff-version 3
+##sequence-region 419 1 580076
+419	prediction	gene	456756	457372	10.0	+	.	ID=419;other=Some,annotations
+419	prediction	CDS	5	7	.	+	0	Parent=419
+##gff-version 3
+##sequence-region 420 1 580076
+420	prediction	gene	457348	458270	10.0	+	.	ID=420;other=Some,annotations
+420	prediction	CDS	7	114	.	+	0	Parent=420
+##gff-version 3
+##sequence-region 421 1 580076
+421	prediction	gene	458261	459495	10.0	-	.	ID=421;other=Some,annotations
+421	prediction	CDS	29	271	.	-	0	Parent=421
+##gff-version 3
+##sequence-region 422 1 580076
+422	prediction	gene	459616	460103	10.0	+	.	ID=422;other=Some,annotations
+422	prediction	CDS	35	70	.	+	0	Parent=422
+##gff-version 3
+##sequence-region 423 1 580076
+423	prediction	gene	460127	460494	10.0	+	.	ID=423;other=Some,annotations
+423	prediction	CDS	140	271	.	+	0	Parent=423
+##gff-version 3
+##sequence-region 424 1 580076
+424	prediction	gene	460686	460951	10.0	-	.	ID=424;other=Some,annotations
+424	prediction	CDS	116	199	.	-	0	Parent=424
+##gff-version 3
+##sequence-region 425 1 580076
+425	prediction	gene	461016	461689	10.0	+	.	ID=425;other=Some,annotations
+425	prediction	CDS	241	243	.	+	0	Parent=425
+##gff-version 3
+##sequence-region 426 1 580076
+426	prediction	gene	461683	462617	10.0	+	.	ID=426;other=Some,annotations
+426	prediction	CDS	23	226	.	+	0	Parent=426
+##gff-version 3
+##sequence-region 427 1 580076
+427	prediction	gene	462620	464622	10.0	+	.	ID=427;other=Some,annotations
+427	prediction	CDS	5	46	.	+	0	Parent=427
+##gff-version 3
+##sequence-region 428 1 580076
+428	prediction	gene	464647	465461	10.0	-	.	ID=428;other=Some,annotations
+428	prediction	CDS	16	27	.	-	0	Parent=428
+##gff-version 3
+##sequence-region 429 1 580076
+429	prediction	gene	465425	466410	10.0	-	.	ID=429;other=Some,annotations
+429	prediction	CDS	65	121	.	-	0	Parent=429
+##gff-version 3
+##sequence-region 430 1 580076
+430	prediction	gene	466411	468050	10.0	-	.	ID=430;other=Some,annotations
+430	prediction	CDS	8	49	.	-	0	Parent=430
+##gff-version 3
+##sequence-region 431 1 580076
+431	prediction	gene	468153	469144	10.0	-	.	ID=431;other=Some,annotations
+431	prediction	CDS	69	98	.	-	0	Parent=431
+##gff-version 3
+##sequence-region 432 1 580076
+432	prediction	gene	469111	470084	10.0	-	.	ID=432;other=Some,annotations
+432	prediction	CDS	172	198	.	-	0	Parent=432
+##gff-version 3
+##sequence-region 433 1 580076
+433	prediction	gene	470078	471234	10.0	-	.	ID=433;other=Some,annotations
+433	prediction	CDS	115	240	.	-	0	Parent=433
+##gff-version 3
+##sequence-region 434 1 580076
+434	prediction	gene	471222	472066	10.0	-	.	ID=434;other=Some,annotations
+434	prediction	CDS	317	328	.	-	0	Parent=434
+##gff-version 3
+##sequence-region 435 1 580076
+435	prediction	gene	472068	472945	10.0	-	.	ID=435;other=Some,annotations
+435	prediction	CDS	90	278	.	-	0	Parent=435
+##gff-version 3
+##sequence-region 436 1 580076
+436	prediction	gene	472885	474578	10.0	-	.	ID=436;other=Some,annotations
+436	prediction	CDS	102	200	.	-	0	Parent=436
+##gff-version 3
+##sequence-region 437 1 580076
+437	prediction	gene	474579	474892	10.0	-	.	ID=437;other=Some,annotations
+437	prediction	CDS	29	73	.	-	0	Parent=437
+##gff-version 3
+##sequence-region 438 1 580076
+438	prediction	gene	474899	475479	10.0	-	.	ID=438;other=Some,annotations
+438	prediction	CDS	51	80	.	-	0	Parent=438
+##gff-version 3
+##sequence-region 439 1 580076
+439	prediction	gene	475527	477139	10.0	-	.	ID=439;other=Some,annotations
+439	prediction	CDS	13	132	.	-	0	Parent=439
+##gff-version 3
+##sequence-region 440 1 580076
+440	prediction	gene	477169	479006	10.0	+	.	ID=440;other=Some,annotations
+440	prediction	CDS	164	232	.	+	0	Parent=440
+##gff-version 3
+##sequence-region 441 1 580076
+441	prediction	gene	479000	479577	10.0	+	.	ID=441;other=Some,annotations
+441	prediction	CDS	337	345	.	+	0	Parent=441
+##gff-version 3
+##sequence-region 442 1 580076
+442	prediction	gene	479571	480226	10.0	+	.	ID=442;other=Some,annotations
+442	prediction	CDS	32	37	.	+	0	Parent=442
+##gff-version 3
+##sequence-region 443 1 580076
+443	prediction	gene	480692	481332	10.0	+	.	ID=443;other=Some,annotations
+443	prediction	CDS	56	94	.	+	0	Parent=443
+##gff-version 3
+##sequence-region 444 1 580076
+444	prediction	gene	481330	482075	10.0	-	.	ID=444;other=Some,annotations
+444	prediction	CDS	149	193	.	-	0	Parent=444
+##gff-version 3
+##sequence-region 445 1 580076
+445	prediction	gene	482069	483369	10.0	-	.	ID=445;other=Some,annotations
+445	prediction	CDS	16	18	.	-	0	Parent=445
+##gff-version 3
+##sequence-region 446 1 580076
+446	prediction	gene	483370	483986	10.0	-	.	ID=446;other=Some,annotations
+446	prediction	CDS	107	124	.	-	0	Parent=446
+##gff-version 3
+##sequence-region 447 1 580076
+447	prediction	gene	483990	484699	10.0	-	.	ID=447;other=Some,annotations
+447	prediction	CDS	30	74	.	-	0	Parent=447
+##gff-version 3
+##sequence-region 448 1 580076
+448	prediction	gene	484703	489552	10.0	-	.	ID=448;other=Some,annotations
+448	prediction	CDS	153	440	.	-	0	Parent=448
+##gff-version 3
+##sequence-region 449 1 580076
+449	prediction	gene	489840	490711	10.0	-	.	ID=449;other=Some,annotations
+449	prediction	CDS	34	126	.	-	0	Parent=449
+##gff-version 3
+##sequence-region 450 1 580076
+450	prediction	gene	490700	491163	10.0	-	.	ID=450;other=Some,annotations
+450	prediction	CDS	7	78	.	-	0	Parent=450
+##gff-version 3
+##sequence-region 451 1 580076
+451	prediction	gene	491148	491530	10.0	-	.	ID=451;other=Some,annotations
+451	prediction	CDS	100	165	.	-	0	Parent=451
+##gff-version 3
+##sequence-region 452 1 580076
+452	prediction	gene	491535	493516	10.0	-	.	ID=452;other=Some,annotations
+452	prediction	CDS	94	96	.	-	0	Parent=452
+##gff-version 3
+##sequence-region 453 1 580076
+453	prediction	gene	493625	494967	10.0	-	.	ID=453;other=Some,annotations
+453	prediction	CDS	82	321	.	-	0	Parent=453
+##gff-version 3
+##sequence-region 454 1 580076
+454	prediction	gene	494985	496615	10.0	-	.	ID=454;other=Some,annotations
+454	prediction	CDS	12	137	.	-	0	Parent=454
+##gff-version 3
+##sequence-region 455 1 580076
+455	prediction	gene	496629	496960	10.0	-	.	ID=455;other=Some,annotations
+455	prediction	CDS	9	29	.	-	0	Parent=455
+##gff-version 3
+##sequence-region 456 1 580076
+456	prediction	gene	497087	498306	10.0	-	.	ID=456;other=Some,annotations
+456	prediction	CDS	14	280	.	-	0	Parent=456
+##gff-version 3
+##sequence-region 457 1 580076
+457	prediction	gene	498317	499890	10.0	-	.	ID=457;other=Some,annotations
+457	prediction	CDS	127	240	.	-	0	Parent=457
+##gff-version 3
+##sequence-region 459 1 580076
+459	prediction	gene	500262	500719	10.0	-	.	ID=459;other=Some,annotations
+459	prediction	CDS	164	172	.	-	0	Parent=459
+##gff-version 3
+##sequence-region 460 1 580076
+460	prediction	gene	500721	502420	10.0	-	.	ID=460;other=Some,annotations
+460	prediction	CDS	79	261	.	-	0	Parent=460
+##gff-version 3
+##sequence-region 461 1 580076
+461	prediction	gene	502423	502823	10.0	-	.	ID=461;other=Some,annotations
+461	prediction	CDS	129	134	.	-	0	Parent=461
+##gff-version 3
+##sequence-region 462 1 580076
+462	prediction	gene	502829	504258	10.0	-	.	ID=462;other=Some,annotations
+462	prediction	CDS	88	129	.	-	0	Parent=462
+##gff-version 3
+##sequence-region 463 1 580076
+463	prediction	gene	504261	505099	10.0	-	.	ID=463;other=Some,annotations
+463	prediction	CDS	199	303	.	-	0	Parent=463
+##gff-version 3
+##sequence-region 464 1 580076
+464	prediction	gene	505100	506655	10.0	-	.	ID=464;other=Some,annotations
+464	prediction	CDS	11	31	.	-	0	Parent=464
+##gff-version 3
+##sequence-region 465 1 580076
+465	prediction	gene	506672	507201	10.0	-	.	ID=465;other=Some,annotations
+465	prediction	CDS	16	261	.	-	0	Parent=465
+##gff-version 3
+##sequence-region 466 1 580076
+466	prediction	gene	507195	507820	10.0	-	.	ID=466;other=Some,annotations
+466	prediction	CDS	139	195	.	-	0	Parent=466
+##gff-version 3
+##sequence-region 467 1 580076
+467	prediction	gene	507824	508131	10.0	-	.	ID=467;other=Some,annotations
+467	prediction	CDS	102	146	.	-	0	Parent=467
+##gff-version 3
+##sequence-region 468 1 580076
+468	prediction	gene	508135	509012	10.0	-	.	ID=468;other=Some,annotations
+468	prediction	CDS	45	89	.	-	0	Parent=468
+##gff-version 3
+##sequence-region 470 1 580076
+470	prediction	gene	509199	509470	10.0	+	.	ID=470;other=Some,annotations
+470	prediction	CDS	185	238	.	+	0	Parent=470
+##gff-version 3
+##sequence-region 471 1 580076
+471	prediction	gene	509461	510836	10.0	-	.	ID=471;other=Some,annotations
+471	prediction	CDS	143	181	.	-	0	Parent=471
+##gff-version 3
+##sequence-region 472 1 580076
+472	prediction	gene	510904	511376	10.0	+	.	ID=472;other=Some,annotations
+472	prediction	CDS	143	202	.	+	0	Parent=472
+##gff-version 3
+##sequence-region 473 1 580076
+473	prediction	gene	511374	512050	10.0	-	.	ID=473;other=Some,annotations
+473	prediction	CDS	201	203	.	-	0	Parent=473
+##gff-version 3
+##sequence-region 474 1 580076
+474	prediction	gene	512054	513042	10.0	-	.	ID=474;other=Some,annotations
+474	prediction	CDS	99	128	.	-	0	Parent=474
+##gff-version 3
+##sequence-region 475 1 580076
+475	prediction	gene	513028	514991	10.0	-	.	ID=475;other=Some,annotations
+475	prediction	CDS	97	171	.	-	0	Parent=475
+##gff-version 3
+##sequence-region 476 1 580076
+476	prediction	gene	514992	516124	10.0	-	.	ID=476;other=Some,annotations
+476	prediction	CDS	61	93	.	-	0	Parent=476
+##gff-version 3
+##sequence-region 477 1 580076
+477	prediction	gene	516246	519355	10.0	-	.	ID=477;other=Some,annotations
+477	prediction	CDS	53	289	.	-	0	Parent=477
+##gff-version 3
+##sequence-region 478 1 580076
+478	prediction	gene	519421	521414	10.0	-	.	ID=478;other=Some,annotations
+478	prediction	CDS	5	214	.	-	0	Parent=478
+##gff-version 3
+##sequence-region 479 1 580076
+479	prediction	gene	521471	521868	10.0	-	.	ID=479;other=Some,annotations
+479	prediction	CDS	69	125	.	-	0	Parent=479
+##gff-version 3
+##sequence-region 480 1 580076
+480	prediction	gene	521875	522314	10.0	-	.	ID=480;other=Some,annotations
+480	prediction	CDS	213	254	.	-	0	Parent=480
+##gff-version 3
+##sequence-region 481 1 580076
+481	prediction	gene	522353	524145	10.0	-	.	ID=481;other=Some,annotations
+481	prediction	CDS	206	265	.	-	0	Parent=481
+##gff-version 3
+##sequence-region 482 1 580076
+482	prediction	gene	524152	527009	10.0	-	.	ID=482;other=Some,annotations
+482	prediction	CDS	53	226	.	-	0	Parent=482
+##gff-version 3
+##sequence-region 483 1 580076
+483	prediction	gene	526988	529494	10.0	-	.	ID=483;other=Some,annotations
+483	prediction	CDS	48	80	.	-	0	Parent=483
+##gff-version 3
+##sequence-region 484 1 580076
+484	prediction	gene	529533	531217	10.0	-	.	ID=484;other=Some,annotations
+484	prediction	CDS	55	72	.	-	0	Parent=484
+##gff-version 3
+##sequence-region 485 1 580076
+485	prediction	gene	531221	531480	10.0	-	.	ID=485;other=Some,annotations
+485	prediction	CDS	65	172	.	-	0	Parent=485
+##gff-version 3
+##sequence-region 486 1 580076
+486	prediction	gene	531670	533018	10.0	+	.	ID=486;other=Some,annotations
+486	prediction	CDS	328	363	.	+	0	Parent=486
+##gff-version 3
+##sequence-region 487 1 580076
+487	prediction	gene	533272	533696	10.0	+	.	ID=487;other=Some,annotations
+487	prediction	CDS	12	17	.	+	0	Parent=487
+##gff-version 3
+##sequence-region 488 1 580076
+488	prediction	gene	533808	534322	10.0	+	.	ID=488;other=Some,annotations
+488	prediction	CDS	258	329	.	+	0	Parent=488
+##gff-version 3
+##sequence-region 489 1 580076
+489	prediction	gene	534320	536037	10.0	-	.	ID=489;other=Some,annotations
+489	prediction	CDS	30	62	.	-	0	Parent=489
+##gff-version 3
+##sequence-region 490 1 580076
+490	prediction	gene	536042	537564	10.0	-	.	ID=490;other=Some,annotations
+490	prediction	CDS	11	25	.	-	0	Parent=490
+##gff-version 3
+##sequence-region 491 1 580076
+491	prediction	gene	537558	538291	10.0	-	.	ID=491;other=Some,annotations
+491	prediction	CDS	54	146	.	-	0	Parent=491
+##gff-version 3
+##sequence-region 492 1 580076
+492	prediction	gene	538352	539547	10.0	-	.	ID=492;other=Some,annotations
+492	prediction	CDS	126	221	.	-	0	Parent=492
+##gff-version 3
+##sequence-region 493 1 580076
+493	prediction	gene	539634	540529	10.0	+	.	ID=493;other=Some,annotations
+493	prediction	CDS	199	237	.	+	0	Parent=493
+##gff-version 3
+##sequence-region 494 1 580076
+494	prediction	gene	540511	541241	10.0	+	.	ID=494;other=Some,annotations
+494	prediction	CDS	216	236	.	+	0	Parent=494
+##gff-version 3
+##sequence-region 495 1 580076
+495	prediction	gene	541242	541792	10.0	+	.	ID=495;other=Some,annotations
+495	prediction	CDS	15	17	.	+	0	Parent=495
+##gff-version 3
+##sequence-region 496 1 580076
+496	prediction	gene	541794	542986	10.0	+	.	ID=496;other=Some,annotations
+496	prediction	CDS	176	433	.	+	0	Parent=496
+##gff-version 3
+##sequence-region 497 1 580076
+497	prediction	gene	543007	544157	10.0	+	.	ID=497;other=Some,annotations
+497	prediction	CDS	104	208	.	+	0	Parent=497
+##gff-version 3
+##sequence-region 498 1 580076
+498	prediction	gene	544563	545380	10.0	-	.	ID=498;other=Some,annotations
+498	prediction	CDS	77	142	.	-	0	Parent=498
+##gff-version 3
+##sequence-region 499 1 580076
+499	prediction	gene	545381	546156	10.0	-	.	ID=499;other=Some,annotations
+499	prediction	CDS	74	115	.	-	0	Parent=499
+##gff-version 3
+##sequence-region 501 1 580076
+501	prediction	gene	546300	546709	10.0	-	.	ID=501;other=Some,annotations
+501	prediction	CDS	162	179	.	-	0	Parent=501
+##gff-version 3
+##sequence-region 502 1 580076
+502	prediction	gene	546881	547647	10.0	-	.	ID=502;other=Some,annotations
+502	prediction	CDS	383	424	.	-	0	Parent=502
+##gff-version 3
+##sequence-region 503 1 580076
+503	prediction	gene	547665	548761	10.0	-	.	ID=503;other=Some,annotations
+503	prediction	CDS	2	25	.	-	0	Parent=503
+##gff-version 3
+##sequence-region 505 1 580076
+505	prediction	gene	548868	549226	10.0	-	.	ID=505;other=Some,annotations
+505	prediction	CDS	221	271	.	-	0	Parent=505
+##gff-version 3
+##sequence-region 506 1 580076
+506	prediction	gene	549211	549905	10.0	-	.	ID=506;other=Some,annotations
+506	prediction	CDS	8	37	.	-	0	Parent=506
+##gff-version 3
+##sequence-region 507 1 580076
+507	prediction	gene	549906	550174	10.0	-	.	ID=507;other=Some,annotations
+507	prediction	CDS	17	49	.	-	0	Parent=507
+##gff-version 3
+##sequence-region 508 1 580076
+508	prediction	gene	550804	552446	10.0	-	.	ID=508;other=Some,annotations
+508	prediction	CDS	69	71	.	-	0	Parent=508
+##gff-version 3
+##sequence-region 509 1 580076
+509	prediction	gene	552448	552899	10.0	-	.	ID=509;other=Some,annotations
+509	prediction	CDS	26	31	.	-	0	Parent=509
+##gff-version 3
+##sequence-region 510 1 580076
+510	prediction	gene	552864	553297	10.0	-	.	ID=510;other=Some,annotations
+510	prediction	CDS	201	263	.	-	0	Parent=510
+##gff-version 3
+##sequence-region 511 1 580076
+511	prediction	gene	553319	553548	10.0	-	.	ID=511;other=Some,annotations
+511	prediction	CDS	7	66	.	-	0	Parent=511
+##gff-version 3
+##sequence-region 512 1 580076
+512	prediction	gene	553559	554430	10.0	-	.	ID=512;other=Some,annotations
+512	prediction	CDS	44	76	.	-	0	Parent=512
+##gff-version 3
+##sequence-region 513 1 580076
+513	prediction	gene	554431	555614	10.0	-	.	ID=513;other=Some,annotations
+513	prediction	CDS	68	76	.	-	0	Parent=513
+##gff-version 3
+##sequence-region 514 1 580076
+514	prediction	gene	555668	556452	10.0	+	.	ID=514;other=Some,annotations
+514	prediction	CDS	79	204	.	+	0	Parent=514
+##gff-version 3
+##sequence-region 515 1 580076
+515	prediction	gene	556438	557315	10.0	+	.	ID=515;other=Some,annotations
+515	prediction	CDS	55	198	.	+	0	Parent=515
+##gff-version 3
+##sequence-region 516 1 580076
+516	prediction	gene	557306	557772	10.0	-	.	ID=516;other=Some,annotations
+516	prediction	CDS	173	283	.	-	0	Parent=516
+##gff-version 3
+##sequence-region 517 1 580076
+517	prediction	gene	557727	558949	10.0	+	.	ID=517;other=Some,annotations
+517	prediction	CDS	169	180	.	+	0	Parent=517
+##gff-version 3
+##sequence-region 518 1 580076
+518	prediction	gene	558940	559943	10.0	-	.	ID=518;other=Some,annotations
+518	prediction	CDS	62	124	.	-	0	Parent=518
+##gff-version 3
+##sequence-region 519 1 580076
+519	prediction	gene	559932	560512	10.0	-	.	ID=519;other=Some,annotations
+519	prediction	CDS	127	132	.	-	0	Parent=519
+##gff-version 3
+##sequence-region 520 1 580076
+520	prediction	gene	560497	562604	10.0	-	.	ID=520;other=Some,annotations
+520	prediction	CDS	134	229	.	-	0	Parent=520
+##gff-version 3
+##sequence-region 521 1 580076
+521	prediction	gene	562606	562763	10.0	-	.	ID=521;other=Some,annotations
+521	prediction	CDS	42	86	.	-	0	Parent=521
+##gff-version 3
+##sequence-region 522 1 580076
+522	prediction	gene	562783	563309	10.0	-	.	ID=522;other=Some,annotations
+522	prediction	CDS	85	105	.	-	0	Parent=522
+##gff-version 3
+##sequence-region 523 1 580076
+523	prediction	gene	563312	563820	10.0	-	.	ID=523;other=Some,annotations
+523	prediction	CDS	20	43	.	-	0	Parent=523
+##gff-version 3
+##sequence-region 524 1 580076
+524	prediction	gene	563994	564931	10.0	+	.	ID=524;other=Some,annotations
+524	prediction	CDS	44	133	.	+	0	Parent=524
+##gff-version 3
+##sequence-region 525 1 580076
+525	prediction	gene	564929	566205	10.0	-	.	ID=525;other=Some,annotations
+525	prediction	CDS	178	195	.	-	0	Parent=525
+##gff-version 3
+##sequence-region 526 1 580076
+526	prediction	gene	566187	567640	10.0	-	.	ID=526;other=Some,annotations
+526	prediction	CDS	1	18	.	-	0	Parent=526
+##gff-version 3
+##sequence-region 527 1 580076
+527	prediction	gene	567628	568406	10.0	-	.	ID=527;other=Some,annotations
+527	prediction	CDS	80	109	.	-	0	Parent=527
+##gff-version 3
+##sequence-region 528 1 580076
+528	prediction	gene	568400	569556	10.0	-	.	ID=528;other=Some,annotations
+528	prediction	CDS	148	270	.	-	0	Parent=528
+##gff-version 3
+##sequence-region 529 1 580076
+529	prediction	gene	569529	569893	10.0	-	.	ID=529;other=Some,annotations
+529	prediction	CDS	2	40	.	-	0	Parent=529
+##gff-version 3
+##sequence-region 530 1 580076
+530	prediction	gene	569884	570029	10.0	-	.	ID=530;other=Some,annotations
+530	prediction	CDS	10	66	.	-	0	Parent=530
+##gff-version 3
+##sequence-region 531 1 580076
+531	prediction	gene	570056	570990	10.0	-	.	ID=531;other=Some,annotations
+531	prediction	CDS	290	580	.	-	0	Parent=531
+##gff-version 3
+##sequence-region 532 1 580076
+532	prediction	gene	570995	576345	10.0	-	.	ID=532;other=Some,annotations
+532	prediction	CDS	82	213	.	-	0	Parent=532
+##gff-version 3
+##sequence-region 533 1 580076
+533	prediction	gene	576352	577205	10.0	-	.	ID=533;other=Some,annotations
+533	prediction	CDS	20	37	.	-	0	Parent=533
+##gff-version 3
+##sequence-region 534 1 580076
+534	prediction	gene	577269	578581	10.0	-	.	ID=534;other=Some,annotations
+534	prediction	CDS	99	131	.	-	0	Parent=534
+##gff-version 3
+##sequence-region 535 1 580076
+535	prediction	gene	578582	579234	10.0	-	.	ID=535;other=Some,annotations
+535	prediction	CDS	40	57	.	-	0	Parent=535
+##gff-version 3
+##sequence-region 536 1 580076
+536	prediction	gene	579225	580033	10.0	-	.	ID=536;other=Some,annotations
+536	prediction	CDS	333	368	.	-	0	Parent=536

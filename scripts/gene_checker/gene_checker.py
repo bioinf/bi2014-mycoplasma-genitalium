@@ -31,26 +31,25 @@ def read_fasta(file_path):
 def check_and_dump_annotations(annotations, fasta, outfile_path):
     checked_annotations = ((annotation, annotation.check_annotation(fasta)) for annotation in annotations)
 
-    records = []
-    for annotation, (result, cause) in checked_annotations:
-        if not result:
-            print("Gene with id={0}: {1}".format(annotation.id(), cause))
-        else:
-            record = SeqRecord(fasta, str(annotation.id()))
-            qualifiers = {"source": "prediction", "score": 10.0, "other": ["Some", "annotations"],
-                          "ID": "gene1"}
+    with open(outfile_path, 'w') as outfile:
+        for annotation, (orf, cause) in checked_annotations:
+            if not orf:
+                print("Gene with id={0}: {1}".format(annotation.id(), cause))
+            else:
+                record = SeqRecord(fasta, str(annotation.id()))
+                qualifiers = {"source": "prediction", "score": 10.0, "other": ["Some", "annotations"],
+                              "ID": annotation.id()}
 
-            top_feature = SeqFeature(FeatureLocation(annotation.start(), annotation.end()), type='gene',
-                                     strand=1 if annotation.is_forward() else -1,
-                                     qualifiers=qualifiers)
-            # top_feature.sub_features = [SeqFeature(
-            #     FeatureLocation(result[0], result[1], type='CDS', strand=1 if annotation.is_forward() else -1))]
+                top_feature = SeqFeature(FeatureLocation(annotation.start(), annotation.end()), type='gene',
+                                         strand=1 if annotation.is_forward() else -1,
+                                         qualifiers=qualifiers)
+                sub_qualifiers = {"source": "prediction"}
+                top_feature.sub_features = [SeqFeature(FeatureLocation(orf[0], orf[1]), type="CDS",
+                                                       strand=1 if annotation.is_forward() else -1,
+                                                       qualifiers=sub_qualifiers)]
 
-            record.features = [top_feature]
-            records.append(record)
-
-        with open(outfile_path, 'w') as outfile:
-            GFF.write(records, outfile)
+                record.features = [top_feature]
+                GFF.write([record], outfile)
 
 
 def perform_checking(fasta_path, genemarks_path=None, glimmer_path=None, result_genemarks_path=None,
@@ -85,8 +84,8 @@ GENOMES = ['g37', 'm2321', 'm2288', 'm6282', 'm6320']
 if __name__ == '__main__':
     # for genome in GENOMES:
     # fasta_path = '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/genomes' \
-    #                  '/Mycoplasma_genitalium_' + genome.upper() + '_complete_genome.fasta'
-    #     glimmer_path = '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results/glimmer/' + \
+    # '/Mycoplasma_genitalium_' + genome.upper() + '_complete_genome.fasta'
+    # glimmer_path = '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results/glimmer/' + \
     #                    genome + '.predict'
     #
     #     glimmer_result_path = '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results' \
@@ -100,5 +99,5 @@ if __name__ == '__main__':
     #
     #     perform_checking(fasta_path, genemarks_path, glimmer_path, genemarks_result_path, glimmer_result_path)
     perform_checking(FASTA_PATH, GENEMARKS_ANNOTATION_FILE_PATH, GLIMMER_ANNOTATION_FILE_PATH,
-                     '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results/model/genemarks.gff',
-                     '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results/model/glimmer.gff')
+                     '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results/model/genemarks.gff3',
+                     '/Users/nikita_kartashov/Documents/Work/bio/bi2014-mycoplasma-genitalium/results/model/glimmer.gff3')

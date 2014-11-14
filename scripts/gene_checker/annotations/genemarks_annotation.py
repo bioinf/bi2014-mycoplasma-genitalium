@@ -32,4 +32,4 @@ class GeneMarkAnnotation(GenericAnnotation):
         orf = super(GeneMarkAnnotation, self).check_annotation(code)
         if not has_Shine_Dalgarno(gene, orf[0], self.rbs_spacer()):
             return False, 'Has no RBS'
-        return orf, ''
+        return orf

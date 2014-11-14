@@ -1,0 +1,1016 @@
+##gff-version 3
+##sequence-region orf00005 1 580076
+orf00005	prediction	gene	3188	4797	10.0	+	.	ID=orf00005;other=Some,annotations
+orf00005	prediction	CDS	13	90	.	+	0	Parent=orf00005
+##gff-version 3
+##sequence-region orf00006 1 580076
+orf00006	prediction	gene	4813	7322	10.0	+	.	ID=orf00006;other=Some,annotations
+orf00006	prediction	CDS	136	168	.	+	0	Parent=orf00006
+##gff-version 3
+##sequence-region orf00008 1 580076
+orf00008	prediction	gene	7295	8547	10.0	+	.	ID=orf00008;other=Some,annotations
+orf00008	prediction	CDS	19	33	.	+	0	Parent=orf00008
+##gff-version 3
+##sequence-region orf00010 1 580076
+orf00010	prediction	gene	8552	9183	10.0	+	.	ID=orf00010;other=Some,annotations
+orf00010	prediction	CDS	110	286	.	+	0	Parent=orf00010
+##gff-version 3
+##sequence-region orf00011 1 580076
+orf00011	prediction	gene	9157	9920	10.0	+	.	ID=orf00011;other=Some,annotations
+orf00011	prediction	CDS	5	19	.	+	0	Parent=orf00011
+##gff-version 3
+##sequence-region orf00013 1 580076
+orf00013	prediction	gene	9924	11251	10.0	+	.	ID=orf00013;other=Some,annotations
+orf00013	prediction	CDS	55	216	.	+	0	Parent=orf00013
+##gff-version 3
+##sequence-region orf00015 1 580076
+orf00015	prediction	gene	11252	12039	10.0	+	.	ID=orf00015;other=Some,annotations
+orf00015	prediction	CDS	6	53	.	+	0	Parent=orf00015
+##gff-version 3
+##sequence-region orf00016 1 580076
+orf00016	prediction	gene	12069	12724	10.0	+	.	ID=orf00016;other=Some,annotations
+orf00016	prediction	CDS	96	212	.	+	0	Parent=orf00016
+##gff-version 3
+##sequence-region orf00021 1 580076
+orf00021	prediction	gene	15637	17426	10.0	+	.	ID=orf00021;other=Some,annotations
+orf00021	prediction	CDS	181	222	.	+	0	Parent=orf00021
+##gff-version 3
+##sequence-region orf00022 1 580076
+orf00022	prediction	gene	17414	19242	10.0	+	.	ID=orf00022;other=Some,annotations
+orf00022	prediction	CDS	53	82	.	+	0	Parent=orf00022
+##gff-version 3
+##sequence-region orf00025 1 580076
+orf00025	prediction	gene	19253	22347	10.0	+	.	ID=orf00025;other=Some,annotations
+orf00025	prediction	CDS	419	511	.	+	0	Parent=orf00025
+##gff-version 3
+##sequence-region orf00026 1 580076
+orf00026	prediction	gene	22483	23558	10.0	+	.	ID=orf00026;other=Some,annotations
+orf00026	prediction	CDS	41	217	.	+	0	Parent=orf00026
+##gff-version 3
+##sequence-region orf00027 1 580076
+orf00027	prediction	gene	23543	24468	10.0	+	.	ID=orf00027;other=Some,annotations
+orf00027	prediction	CDS	5	178	.	+	0	Parent=orf00027
+##gff-version 3
+##sequence-region orf00028 1 580076
+orf00028	prediction	gene	24547	26006	10.0	+	.	ID=orf00028;other=Some,annotations
+orf00028	prediction	CDS	318	395	.	+	0	Parent=orf00028
+##gff-version 3
+##sequence-region orf00029 1 580076
+orf00029	prediction	gene	26037	26473	10.0	+	.	ID=orf00029;other=Some,annotations
+orf00029	prediction	CDS	12	23	.	+	0	Parent=orf00029
+##gff-version 3
+##sequence-region orf00030 1 580076
+orf00030	prediction	gene	26501	27345	10.0	+	.	ID=orf00030;other=Some,annotations
+orf00030	prediction	CDS	141	164	.	+	0	Parent=orf00030
+##gff-version 3
+##sequence-region orf00032 1 580076
+orf00032	prediction	gene	27347	28449	10.0	+	.	ID=orf00032;other=Some,annotations
+orf00032	prediction	CDS	25	66	.	+	0	Parent=orf00032
+##gff-version 3
+##sequence-region orf00033 1 580076
+orf00033	prediction	gene	28653	29548	10.0	+	.	ID=orf00033;other=Some,annotations
+orf00033	prediction	CDS	39	188	.	+	0	Parent=orf00033
+##gff-version 3
+##sequence-region orf00035 1 580076
+orf00035	prediction	gene	29658	30124	10.0	+	.	ID=orf00035;other=Some,annotations
+orf00035	prediction	CDS	68	79	.	+	0	Parent=orf00035
+##gff-version 3
+##sequence-region orf00036 1 580076
+orf00036	prediction	gene	30106	30548	10.0	+	.	ID=orf00036;other=Some,annotations
+orf00036	prediction	CDS	82	111	.	+	0	Parent=orf00036
+##gff-version 3
+##sequence-region orf00037 1 580076
+orf00037	prediction	gene	30549	31153	10.0	+	.	ID=orf00037;other=Some,annotations
+orf00037	prediction	CDS	210	242	.	+	0	Parent=orf00037
+##gff-version 3
+##sequence-region orf00041 1 580076
+orf00041	prediction	gene	36978	38977	10.0	+	.	ID=orf00041;other=Some,annotations
+orf00041	prediction	CDS	37	114	.	+	0	Parent=orf00041
+##gff-version 3
+##sequence-region orf00043 1 580076
+orf00043	prediction	gene	39128	39903	10.0	+	.	ID=orf00043;other=Some,annotations
+orf00043	prediction	CDS	17	22	.	+	0	Parent=orf00043
+##gff-version 3
+##sequence-region orf00046 1 580076
+orf00046	prediction	gene	40543	41786	10.0	+	.	ID=orf00046;other=Some,annotations
+orf00046	prediction	CDS	195	320	.	+	0	Parent=orf00046
+##gff-version 3
+##sequence-region orf00047 1 580076
+orf00047	prediction	gene	41777	43428	10.0	+	.	ID=orf00047;other=Some,annotations
+orf00047	prediction	CDS	182	214	.	+	0	Parent=orf00047
+##gff-version 3
+##sequence-region orf00048 1 580076
+orf00048	prediction	gene	43402	44753	10.0	+	.	ID=orf00048;other=Some,annotations
+orf00048	prediction	CDS	98	199	.	+	0	Parent=orf00048
+##gff-version 3
+##sequence-region orf00051 1 580076
+orf00051	prediction	gene	47713	49355	10.0	+	.	ID=orf00051;other=Some,annotations
+orf00051	prediction	CDS	97	465	.	+	0	Parent=orf00051
+##gff-version 3
+##sequence-region orf00053 1 580076
+orf00053	prediction	gene	49841	51519	10.0	+	.	ID=orf00053;other=Some,annotations
+orf00053	prediction	CDS	107	154	.	+	0	Parent=orf00053
+##gff-version 3
+##sequence-region orf00055 1 580076
+orf00055	prediction	gene	51525	52381	10.0	+	.	ID=orf00055;other=Some,annotations
+orf00055	prediction	CDS	18	53	.	+	0	Parent=orf00055
+##gff-version 3
+##sequence-region orf00057 1 580076
+orf00057	prediction	gene	52366	53219	10.0	+	.	ID=orf00057;other=Some,annotations
+orf00057	prediction	CDS	67	132	.	+	0	Parent=orf00057
+##gff-version 3
+##sequence-region orf00058 1 580076
+orf00058	prediction	gene	53559	54655	10.0	+	.	ID=orf00058;other=Some,annotations
+orf00058	prediction	CDS	61	66	.	+	0	Parent=orf00058
+##gff-version 3
+##sequence-region orf00059 1 580076
+orf00059	prediction	gene	54658	55604	10.0	+	.	ID=orf00059;other=Some,annotations
+orf00059	prediction	CDS	47	214	.	+	0	Parent=orf00059
+##gff-version 3
+##sequence-region orf00060 1 580076
+orf00060	prediction	gene	55640	56739	10.0	+	.	ID=orf00060;other=Some,annotations
+orf00060	prediction	CDS	64	192	.	+	0	Parent=orf00060
+##gff-version 3
+##sequence-region orf00062 1 580076
+orf00062	prediction	gene	58309	59078	10.0	+	.	ID=orf00062;other=Some,annotations
+orf00062	prediction	CDS	197	211	.	+	0	Parent=orf00062
+##gff-version 3
+##sequence-region orf00063 1 580076
+orf00063	prediction	gene	59083	59753	10.0	+	.	ID=orf00063;other=Some,annotations
+orf00063	prediction	CDS	12	20	.	+	0	Parent=orf00063
+##gff-version 3
+##sequence-region orf00064 1 580076
+orf00064	prediction	gene	59741	61005	10.0	+	.	ID=orf00064;other=Some,annotations
+orf00064	prediction	CDS	113	118	.	+	0	Parent=orf00064
+##gff-version 3
+##sequence-region orf00065 1 580076
+orf00065	prediction	gene	61407	63058	10.0	+	.	ID=orf00065;other=Some,annotations
+orf00065	prediction	CDS	222	224	.	+	0	Parent=orf00065
+##gff-version 3
+##sequence-region orf00072 1 580076
+orf00072	prediction	gene	67651	68543	10.0	+	.	ID=orf00072;other=Some,annotations
+orf00072	prediction	CDS	19	30	.	+	0	Parent=orf00072
+##gff-version 3
+##sequence-region orf00076 1 580076
+orf00076	prediction	gene	70531	72572	10.0	+	.	ID=orf00076;other=Some,annotations
+orf00076	prediction	CDS	97	261	.	+	0	Parent=orf00076
+##gff-version 3
+##sequence-region orf00077 1 580076
+orf00077	prediction	gene	72524	73434	10.0	+	.	ID=orf00077;other=Some,annotations
+orf00077	prediction	CDS	51	62	.	+	0	Parent=orf00077
+##gff-version 3
+##sequence-region orf00083 1 580076
+orf00083	prediction	gene	73691	77685	10.0	+	.	ID=orf00083;other=Some,annotations
+orf00083	prediction	CDS	257	334	.	+	0	Parent=orf00083
+##gff-version 3
+##sequence-region orf00084 1 580076
+orf00084	prediction	gene	77686	79085	10.0	+	.	ID=orf00084;other=Some,annotations
+orf00084	prediction	CDS	70	84	.	+	0	Parent=orf00084
+##gff-version 3
+##sequence-region orf00085 1 580076
+orf00085	prediction	gene	79090	81035	10.0	+	.	ID=orf00085;other=Some,annotations
+orf00085	prediction	CDS	6	41	.	+	0	Parent=orf00085
+##gff-version 3
+##sequence-region orf00086 1 580076
+orf00086	prediction	gene	81086	82596	10.0	+	.	ID=orf00086;other=Some,annotations
+orf00086	prediction	CDS	16	78	.	+	0	Parent=orf00086
+##gff-version 3
+##sequence-region orf00087 1 580076
+orf00087	prediction	gene	82621	84044	10.0	+	.	ID=orf00087;other=Some,annotations
+orf00087	prediction	CDS	162	227	.	+	0	Parent=orf00087
+##gff-version 3
+##sequence-region orf00089 1 580076
+orf00089	prediction	gene	84552	85555	10.0	+	.	ID=orf00089;other=Some,annotations
+orf00089	prediction	CDS	167	178	.	+	0	Parent=orf00089
+##gff-version 3
+##sequence-region orf00092 1 580076
+orf00092	prediction	gene	86135	86616	10.0	+	.	ID=orf00092;other=Some,annotations
+orf00092	prediction	CDS	44	97	.	+	0	Parent=orf00092
+##gff-version 3
+##sequence-region orf00093 1 580076
+orf00093	prediction	gene	86828	87645	10.0	+	.	ID=orf00093;other=Some,annotations
+orf00093	prediction	CDS	92	172	.	+	0	Parent=orf00093
+##gff-version 3
+##sequence-region orf00095 1 580076
+orf00095	prediction	gene	87936	88207	10.0	+	.	ID=orf00095;other=Some,annotations
+orf00095	prediction	CDS	116	190	.	+	0	Parent=orf00095
+##gff-version 3
+##sequence-region orf00098 1 580076
+orf00098	prediction	gene	88322	90954	10.0	+	.	ID=orf00098;other=Some,annotations
+orf00098	prediction	CDS	142	303	.	+	0	Parent=orf00098
+##gff-version 3
+##sequence-region orf00099 1 580076
+orf00099	prediction	gene	91066	91919	10.0	+	.	ID=orf00099;other=Some,annotations
+orf00099	prediction	CDS	8	106	.	+	0	Parent=orf00099
+##gff-version 3
+##sequence-region orf00102 1 580076
+orf00102	prediction	gene	92258	94548	10.0	+	.	ID=orf00102;other=Some,annotations
+orf00102	prediction	CDS	124	465	.	+	0	Parent=orf00102
+##gff-version 3
+##sequence-region orf00103 1 580076
+orf00103	prediction	gene	94536	96955	10.0	+	.	ID=orf00103;other=Some,annotations
+orf00103	prediction	CDS	96	176	.	+	0	Parent=orf00103
+##gff-version 3
+##sequence-region orf00104 1 580076
+orf00104	prediction	gene	96934	98903	10.0	+	.	ID=orf00104;other=Some,annotations
+orf00104	prediction	CDS	52	63	.	+	0	Parent=orf00104
+##gff-version 3
+##sequence-region orf00105 1 580076
+orf00105	prediction	gene	99384	102457	10.0	+	.	ID=orf00105;other=Some,annotations
+orf00105	prediction	CDS	11	37	.	+	0	Parent=orf00105
+##gff-version 3
+##sequence-region orf00107 1 580076
+orf00107	prediction	gene	103105	104327	10.0	+	.	ID=orf00107;other=Some,annotations
+orf00107	prediction	CDS	86	208	.	+	0	Parent=orf00107
+##gff-version 3
+##sequence-region orf00109 1 580076
+orf00109	prediction	gene	104321	105450	10.0	+	.	ID=orf00109;other=Some,annotations
+orf00109	prediction	CDS	92	145	.	+	0	Parent=orf00109
+##gff-version 3
+##sequence-region orf00111 1 580076
+orf00111	prediction	gene	105453	106660	10.0	+	.	ID=orf00111;other=Some,annotations
+orf00111	prediction	CDS	79	132	.	+	0	Parent=orf00111
+##gff-version 3
+##sequence-region orf00112 1 580076
+orf00112	prediction	gene	106661	109206	10.0	+	.	ID=orf00112;other=Some,annotations
+orf00112	prediction	CDS	104	157	.	+	0	Parent=orf00112
+##gff-version 3
+##sequence-region orf00113 1 580076
+orf00113	prediction	gene	109263	109675	10.0	+	.	ID=orf00113;other=Some,annotations
+orf00113	prediction	CDS	17	112	.	+	0	Parent=orf00113
+##gff-version 3
+##sequence-region orf00114 1 580076
+orf00114	prediction	gene	109697	110355	10.0	+	.	ID=orf00114;other=Some,annotations
+orf00114	prediction	CDS	11	55	.	+	0	Parent=orf00114
+##gff-version 3
+##sequence-region orf00115 1 580076
+orf00115	prediction	gene	110356	110924	10.0	+	.	ID=orf00115;other=Some,annotations
+orf00115	prediction	CDS	188	346	.	+	0	Parent=orf00115
+##gff-version 3
+##sequence-region orf00116 1 580076
+orf00116	prediction	gene	110918	111789	10.0	+	.	ID=orf00116;other=Some,annotations
+orf00116	prediction	CDS	69	80	.	+	0	Parent=orf00116
+##gff-version 3
+##sequence-region orf00117 1 580076
+orf00117	prediction	gene	111791	112725	10.0	+	.	ID=orf00117;other=Some,annotations
+orf00117	prediction	CDS	89	124	.	+	0	Parent=orf00117
+##gff-version 3
+##sequence-region orf00119 1 580076
+orf00119	prediction	gene	112719	113866	10.0	+	.	ID=orf00119;other=Some,annotations
+orf00119	prediction	CDS	129	161	.	+	0	Parent=orf00119
+##gff-version 3
+##sequence-region orf00120 1 580076
+orf00120	prediction	gene	114419	114798	10.0	+	.	ID=orf00120;other=Some,annotations
+orf00120	prediction	CDS	162	197	.	+	0	Parent=orf00120
+##gff-version 3
+##sequence-region orf00123 1 580076
+orf00123	prediction	gene	115103	116874	10.0	+	.	ID=orf00123;other=Some,annotations
+orf00123	prediction	CDS	88	216	.	+	0	Parent=orf00123
+##gff-version 3
+##sequence-region orf00124 1 580076
+orf00124	prediction	gene	116927	117552	10.0	+	.	ID=orf00124;other=Some,annotations
+orf00124	prediction	CDS	6	11	.	+	0	Parent=orf00124
+##gff-version 3
+##sequence-region orf00125 1 580076
+orf00125	prediction	gene	117641	118035	10.0	+	.	ID=orf00125;other=Some,annotations
+orf00125	prediction	CDS	131	238	.	+	0	Parent=orf00125
+##gff-version 3
+##sequence-region orf00126 1 580076
+orf00126	prediction	gene	118029	118342	10.0	+	.	ID=orf00126;other=Some,annotations
+orf00126	prediction	CDS	224	298	.	+	0	Parent=orf00126
+##gff-version 3
+##sequence-region orf00127 1 580076
+orf00127	prediction	gene	118358	118797	10.0	+	.	ID=orf00127;other=Some,annotations
+orf00127	prediction	CDS	159	200	.	+	0	Parent=orf00127
+##gff-version 3
+##sequence-region orf00128 1 580076
+orf00128	prediction	gene	118782	120187	10.0	+	.	ID=orf00128;other=Some,annotations
+orf00128	prediction	CDS	180	197	.	+	0	Parent=orf00128
+##gff-version 3
+##sequence-region orf00129 1 580076
+orf00129	prediction	gene	120192	121387	10.0	+	.	ID=orf00129;other=Some,annotations
+orf00129	prediction	CDS	15	29	.	+	0	Parent=orf00129
+##gff-version 3
+##sequence-region orf00130 1 580076
+orf00130	prediction	gene	121572	123523	10.0	+	.	ID=orf00130;other=Some,annotations
+orf00130	prediction	CDS	37	117	.	+	0	Parent=orf00130
+##gff-version 3
+##sequence-region orf00131 1 580076
+orf00131	prediction	gene	123587	124317	10.0	+	.	ID=orf00131;other=Some,annotations
+orf00131	prediction	CDS	37	81	.	+	0	Parent=orf00131
+##gff-version 3
+##sequence-region orf00132 1 580076
+orf00132	prediction	gene	124418	125850	10.0	+	.	ID=orf00132;other=Some,annotations
+orf00132	prediction	CDS	17	49	.	+	0	Parent=orf00132
+##gff-version 3
+##sequence-region orf00133 1 580076
+orf00133	prediction	gene	125971	127286	10.0	+	.	ID=orf00133;other=Some,annotations
+orf00133	prediction	CDS	8	226	.	+	0	Parent=orf00133
+##gff-version 3
+##sequence-region orf00135 1 580076
+orf00135	prediction	gene	127280	128712	10.0	+	.	ID=orf00135;other=Some,annotations
+orf00135	prediction	CDS	50	181	.	+	0	Parent=orf00135
+##gff-version 3
+##sequence-region orf00136 1 580076
+orf00136	prediction	gene	128688	129355	10.0	+	.	ID=orf00136;other=Some,annotations
+orf00136	prediction	CDS	164	313	.	+	0	Parent=orf00136
+##gff-version 3
+##sequence-region orf00137 1 580076
+orf00137	prediction	gene	129358	130295	10.0	+	.	ID=orf00137;other=Some,annotations
+orf00137	prediction	CDS	222	269	.	+	0	Parent=orf00137
+##gff-version 3
+##sequence-region orf00138 1 580076
+orf00138	prediction	gene	130286	131127	10.0	+	.	ID=orf00138;other=Some,annotations
+orf00138	prediction	CDS	11	43	.	+	0	Parent=orf00138
+##gff-version 3
+##sequence-region orf00139 1 580076
+orf00139	prediction	gene	131386	133562	10.0	+	.	ID=orf00139;other=Some,annotations
+orf00139	prediction	CDS	35	199	.	+	0	Parent=orf00139
+##gff-version 3
+##sequence-region orf00140 1 580076
+orf00140	prediction	gene	133571	134172	10.0	+	.	ID=orf00140;other=Some,annotations
+orf00140	prediction	CDS	26	73	.	+	0	Parent=orf00140
+##gff-version 3
+##sequence-region orf00142 1 580076
+orf00142	prediction	gene	134770	135338	10.0	+	.	ID=orf00142;other=Some,annotations
+orf00142	prediction	CDS	29	73	.	+	0	Parent=orf00142
+##gff-version 3
+##sequence-region orf00143 1 580076
+orf00143	prediction	gene	135339	136120	10.0	+	.	ID=orf00143;other=Some,annotations
+orf00143	prediction	CDS	26	34	.	+	0	Parent=orf00143
+##gff-version 3
+##sequence-region orf00144 1 580076
+orf00144	prediction	gene	136106	137268	10.0	+	.	ID=orf00144;other=Some,annotations
+orf00144	prediction	CDS	396	446	.	+	0	Parent=orf00144
+##gff-version 3
+##sequence-region orf00145 1 580076
+orf00145	prediction	gene	137382	138091	10.0	+	.	ID=orf00145;other=Some,annotations
+orf00145	prediction	CDS	68	112	.	+	0	Parent=orf00145
+##gff-version 3
+##sequence-region orf00146 1 580076
+orf00146	prediction	gene	138113	139407	10.0	+	.	ID=orf00146;other=Some,annotations
+orf00146	prediction	CDS	72	92	.	+	0	Parent=orf00146
+##gff-version 3
+##sequence-region orf00147 1 580076
+orf00147	prediction	gene	139506	140026	10.0	+	.	ID=orf00147;other=Some,annotations
+orf00147	prediction	CDS	20	49	.	+	0	Parent=orf00147
+##gff-version 3
+##sequence-region orf00149 1 580076
+orf00149	prediction	gene	140041	141410	10.0	+	.	ID=orf00149;other=Some,annotations
+orf00149	prediction	CDS	11	43	.	+	0	Parent=orf00149
+##gff-version 3
+##sequence-region orf00150 1 580076
+orf00150	prediction	gene	141368	142056	10.0	+	.	ID=orf00150;other=Some,annotations
+orf00150	prediction	CDS	21	65	.	+	0	Parent=orf00150
+##gff-version 3
+##sequence-region orf00152 1 580076
+orf00152	prediction	gene	142316	142554	10.0	+	.	ID=orf00152;other=Some,annotations
+orf00152	prediction	CDS	97	135	.	+	0	Parent=orf00152
+##gff-version 3
+##sequence-region orf00153 1 580076
+orf00153	prediction	gene	142564	143318	10.0	+	.	ID=orf00153;other=Some,annotations
+orf00153	prediction	CDS	8	109	.	+	0	Parent=orf00153
+##gff-version 3
+##sequence-region orf00154 1 580076
+orf00154	prediction	gene	143312	143955	10.0	+	.	ID=orf00154;other=Some,annotations
+orf00154	prediction	CDS	25	60	.	+	0	Parent=orf00154
+##gff-version 3
+##sequence-region orf00155 1 580076
+orf00155	prediction	gene	143937	144958	10.0	+	.	ID=orf00155;other=Some,annotations
+orf00155	prediction	CDS	45	71	.	+	0	Parent=orf00155
+##gff-version 3
+##sequence-region orf00157 1 580076
+orf00157	prediction	gene	144974	146667	10.0	+	.	ID=orf00157;other=Some,annotations
+orf00157	prediction	CDS	98	136	.	+	0	Parent=orf00157
+##gff-version 3
+##sequence-region orf00158 1 580076
+orf00158	prediction	gene	146675	148236	10.0	+	.	ID=orf00158;other=Some,annotations
+orf00158	prediction	CDS	24	98	.	+	0	Parent=orf00158
+##gff-version 3
+##sequence-region orf00159 1 580076
+orf00159	prediction	gene	148240	149159	10.0	+	.	ID=orf00159;other=Some,annotations
+orf00159	prediction	CDS	164	181	.	+	0	Parent=orf00159
+##gff-version 3
+##sequence-region orf00160 1 580076
+orf00160	prediction	gene	149200	151328	10.0	+	.	ID=orf00160;other=Some,annotations
+orf00160	prediction	CDS	143	232	.	+	0	Parent=orf00160
+##gff-version 3
+##sequence-region orf00161 1 580076
+orf00161	prediction	gene	151307	152721	10.0	+	.	ID=orf00161;other=Some,annotations
+orf00161	prediction	CDS	144	146	.	+	0	Parent=orf00161
+##gff-version 3
+##sequence-region orf00163 1 580076
+orf00163	prediction	gene	153083	153939	10.0	+	.	ID=orf00163;other=Some,annotations
+orf00163	prediction	CDS	149	331	.	+	0	Parent=orf00163
+##gff-version 3
+##sequence-region orf00165 1 580076
+orf00165	prediction	gene	155000	155436	10.0	+	.	ID=orf00165;other=Some,annotations
+orf00165	prediction	CDS	191	271	.	+	0	Parent=orf00165
+##gff-version 3
+##sequence-region orf00166 1 580076
+orf00166	prediction	gene	155445	156223	10.0	+	.	ID=orf00166;other=Some,annotations
+orf00166	prediction	CDS	6	11	.	+	0	Parent=orf00166
+##gff-version 3
+##sequence-region orf00167 1 580076
+orf00167	prediction	gene	156242	156576	10.0	+	.	ID=orf00167;other=Some,annotations
+orf00167	prediction	CDS	25	30	.	+	0	Parent=orf00167
+##gff-version 3
+##sequence-region orf00169 1 580076
+orf00169	prediction	gene	156567	158020	10.0	+	.	ID=orf00169;other=Some,annotations
+orf00169	prediction	CDS	14	31	.	+	0	Parent=orf00169
+##gff-version 3
+##sequence-region orf00173 1 580076
+orf00173	prediction	gene	159799	160100	10.0	+	.	ID=orf00173;other=Some,annotations
+orf00173	prediction	CDS	90	110	.	+	0	Parent=orf00173
+##gff-version 3
+##sequence-region orf00175 1 580076
+orf00175	prediction	gene	160964	162435	10.0	+	.	ID=orf00175;other=Some,annotations
+orf00175	prediction	CDS	252	254	.	+	0	Parent=orf00175
+##gff-version 3
+##sequence-region orf00176 1 580076
+orf00176	prediction	gene	162399	163591	10.0	+	.	ID=orf00176;other=Some,annotations
+orf00176	prediction	CDS	79	99	.	+	0	Parent=orf00176
+##gff-version 3
+##sequence-region orf00177 1 580076
+orf00177	prediction	gene	163592	165387	10.0	+	.	ID=orf00177;other=Some,annotations
+orf00177	prediction	CDS	59	64	.	+	0	Parent=orf00177
+##gff-version 3
+##sequence-region orf00178 1 580076
+orf00178	prediction	gene	165472	167180	10.0	+	.	ID=orf00178;other=Some,annotations
+orf00178	prediction	CDS	160	393	.	+	0	Parent=orf00178
+##gff-version 3
+##sequence-region orf00179 1 580076
+orf00179	prediction	gene	167554	168230	10.0	+	.	ID=orf00179;other=Some,annotations
+orf00179	prediction	CDS	18	74	.	+	0	Parent=orf00179
+##gff-version 3
+##sequence-region orf00180 1 580076
+orf00180	prediction	gene	168422	169815	10.0	+	.	ID=orf00180;other=Some,annotations
+orf00180	prediction	CDS	92	172	.	+	0	Parent=orf00180
+##gff-version 3
+##sequence-region orf00182 1 580076
+orf00182	prediction	gene	175489	175667	10.0	+	.	ID=orf00182;other=Some,annotations
+orf00182	prediction	CDS	68	166	.	+	0	Parent=orf00182
+##gff-version 3
+##sequence-region orf00183 1 580076
+orf00183	prediction	gene	175806	179146	10.0	+	.	ID=orf00183;other=Some,annotations
+orf00183	prediction	CDS	67	657	.	+	0	Parent=orf00183
+##gff-version 3
+##sequence-region orf00184 1 580076
+orf00184	prediction	gene	179227	180746	10.0	+	.	ID=orf00184;other=Some,annotations
+orf00184	prediction	CDS	22	216	.	+	0	Parent=orf00184
+##gff-version 3
+##sequence-region orf00186 1 580076
+orf00186	prediction	gene	180879	181018	10.0	+	.	ID=orf00186;other=Some,annotations
+orf00186	prediction	CDS	89	115	.	+	0	Parent=orf00186
+##gff-version 3
+##sequence-region orf00187 1 580076
+orf00187	prediction	gene	181006	182864	10.0	+	.	ID=orf00187;other=Some,annotations
+orf00187	prediction	CDS	79	222	.	+	0	Parent=orf00187
+##gff-version 3
+##sequence-region orf00188 1 580076
+orf00188	prediction	gene	183215	184053	10.0	+	.	ID=orf00188;other=Some,annotations
+orf00188	prediction	CDS	125	307	.	+	0	Parent=orf00188
+##gff-version 3
+##sequence-region orf00189 1 580076
+orf00189	prediction	gene	184054	184862	10.0	+	.	ID=orf00189;other=Some,annotations
+orf00189	prediction	CDS	34	36	.	+	0	Parent=orf00189
+##gff-version 3
+##sequence-region orf00190 1 580076
+orf00190	prediction	gene	184876	186149	10.0	+	.	ID=orf00190;other=Some,annotations
+orf00190	prediction	CDS	117	134	.	+	0	Parent=orf00190
+##gff-version 3
+##sequence-region orf00191 1 580076
+orf00191	prediction	gene	186137	187263	10.0	+	.	ID=orf00191;other=Some,annotations
+orf00191	prediction	CDS	58	150	.	+	0	Parent=orf00191
+##gff-version 3
+##sequence-region orf00192 1 580076
+orf00192	prediction	gene	187303	188531	10.0	+	.	ID=orf00192;other=Some,annotations
+orf00192	prediction	CDS	16	78	.	+	0	Parent=orf00192
+##gff-version 3
+##sequence-region orf00193 1 580076
+orf00193	prediction	gene	188608	189452	10.0	+	.	ID=orf00193;other=Some,annotations
+orf00193	prediction	CDS	9	53	.	+	0	Parent=orf00193
+##gff-version 3
+##sequence-region orf00194 1 580076
+orf00194	prediction	gene	190152	190366	10.0	+	.	ID=orf00194;other=Some,annotations
+orf00194	prediction	CDS	25	144	.	+	0	Parent=orf00194
+##gff-version 3
+##sequence-region orf00195 1 580076
+orf00195	prediction	gene	190371	191143	10.0	+	.	ID=orf00195;other=Some,annotations
+orf00195	prediction	CDS	50	151	.	+	0	Parent=orf00195
+##gff-version 3
+##sequence-region orf00196 1 580076
+orf00196	prediction	gene	191144	191778	10.0	+	.	ID=orf00196;other=Some,annotations
+orf00196	prediction	CDS	149	553	.	+	0	Parent=orf00196
+##gff-version 3
+##sequence-region orf00199 1 580076
+orf00199	prediction	gene	192103	192959	10.0	+	.	ID=orf00199;other=Some,annotations
+orf00199	prediction	CDS	77	244	.	+	0	Parent=orf00199
+##gff-version 3
+##sequence-region orf00200 1 580076
+orf00200	prediction	gene	193298	193659	10.0	+	.	ID=orf00200;other=Some,annotations
+orf00200	prediction	CDS	41	139	.	+	0	Parent=orf00200
+##gff-version 3
+##sequence-region orf00201 1 580076
+orf00201	prediction	gene	193663	194468	10.0	+	.	ID=orf00201;other=Some,annotations
+orf00201	prediction	CDS	103	141	.	+	0	Parent=orf00201
+##gff-version 3
+##sequence-region orf00202 1 580076
+orf00202	prediction	gene	195029	195492	10.0	+	.	ID=orf00202;other=Some,annotations
+orf00202	prediction	CDS	22	465	.	+	0	Parent=orf00202
+##gff-version 3
+##sequence-region orf00205 1 580076
+orf00205	prediction	gene	195754	196121	10.0	+	.	ID=orf00205;other=Some,annotations
+orf00205	prediction	CDS	38	97	.	+	0	Parent=orf00205
+##gff-version 3
+##sequence-region orf00206 1 580076
+orf00206	prediction	gene	196155	196447	10.0	+	.	ID=orf00206;other=Some,annotations
+orf00206	prediction	CDS	92	166	.	+	0	Parent=orf00206
+##gff-version 3
+##sequence-region orf00209 1 580076
+orf00209	prediction	gene	198518	199152	10.0	+	.	ID=orf00209;other=Some,annotations
+orf00209	prediction	CDS	17	298	.	+	0	Parent=orf00209
+##gff-version 3
+##sequence-region orf00210 1 580076
+orf00210	prediction	gene	199611	201037	10.0	+	.	ID=orf00210;other=Some,annotations
+orf00210	prediction	CDS	49	180	.	+	0	Parent=orf00210
+##gff-version 3
+##sequence-region orf00211 1 580076
+orf00211	prediction	gene	201032	201675	10.0	+	.	ID=orf00211;other=Some,annotations
+orf00211	prediction	CDS	56	241	.	+	0	Parent=orf00211
+##gff-version 3
+##sequence-region orf00214 1 580076
+orf00214	prediction	gene	201679	202424	10.0	+	.	ID=orf00214;other=Some,annotations
+orf00214	prediction	CDS	80	136	.	+	0	Parent=orf00214
+##gff-version 3
+##sequence-region orf00215 1 580076
+orf00215	prediction	gene	203516	204501	10.0	+	.	ID=orf00215;other=Some,annotations
+orf00215	prediction	CDS	18	23	.	+	0	Parent=orf00215
+##gff-version 3
+##sequence-region orf00217 1 580076
+orf00217	prediction	gene	204873	205696	10.0	+	.	ID=orf00217;other=Some,annotations
+orf00217	prediction	CDS	4	216	.	+	0	Parent=orf00217
+##gff-version 3
+##sequence-region orf00218 1 580076
+orf00218	prediction	gene	205682	206595	10.0	+	.	ID=orf00218;other=Some,annotations
+orf00218	prediction	CDS	125	178	.	+	0	Parent=orf00218
+##gff-version 3
+##sequence-region orf00220 1 580076
+orf00220	prediction	gene	206589	207850	10.0	+	.	ID=orf00220;other=Some,annotations
+orf00220	prediction	CDS	62	100	.	+	0	Parent=orf00220
+##gff-version 3
+##sequence-region orf00221 1 580076
+orf00221	prediction	gene	207844	208577	10.0	+	.	ID=orf00221;other=Some,annotations
+orf00221	prediction	CDS	9	17	.	+	0	Parent=orf00221
+##gff-version 3
+##sequence-region orf00222 1 580076
+orf00222	prediction	gene	208541	210390	10.0	+	.	ID=orf00222;other=Some,annotations
+orf00222	prediction	CDS	39	98	.	+	0	Parent=orf00222
+##gff-version 3
+##sequence-region orf00223 1 580076
+orf00223	prediction	gene	210392	211344	10.0	+	.	ID=orf00223;other=Some,annotations
+orf00223	prediction	CDS	47	271	.	+	0	Parent=orf00223
+##gff-version 3
+##sequence-region orf00225 1 580076
+orf00225	prediction	gene	211445	213549	10.0	+	.	ID=orf00225;other=Some,annotations
+orf00225	prediction	CDS	56	466	.	+	0	Parent=orf00225
+##gff-version 3
+##sequence-region orf00226 1 580076
+orf00226	prediction	gene	213586	214571	10.0	+	.	ID=orf00226;other=Some,annotations
+orf00226	prediction	CDS	182	184	.	+	0	Parent=orf00226
+##gff-version 3
+##sequence-region orf00227 1 580076
+orf00227	prediction	gene	214829	215529	10.0	+	.	ID=orf00227;other=Some,annotations
+orf00227	prediction	CDS	110	208	.	+	0	Parent=orf00227
+##gff-version 3
+##sequence-region orf00229 1 580076
+orf00229	prediction	gene	216017	216768	10.0	+	.	ID=orf00229;other=Some,annotations
+orf00229	prediction	CDS	170	250	.	+	0	Parent=orf00229
+##gff-version 3
+##sequence-region orf00230 1 580076
+orf00230	prediction	gene	216762	218518	10.0	+	.	ID=orf00230;other=Some,annotations
+orf00230	prediction	CDS	112	270	.	+	0	Parent=orf00230
+##gff-version 3
+##sequence-region orf00231 1 580076
+orf00231	prediction	gene	218522	219510	10.0	+	.	ID=orf00231;other=Some,annotations
+orf00231	prediction	CDS	55	180	.	+	0	Parent=orf00231
+##gff-version 3
+##sequence-region orf00232 1 580076
+orf00232	prediction	gene	219483	220438	10.0	+	.	ID=orf00232;other=Some,annotations
+orf00232	prediction	CDS	16	36	.	+	0	Parent=orf00232
+##gff-version 3
+##sequence-region orf00233 1 580076
+orf00233	prediction	gene	220479	221563	10.0	+	.	ID=orf00233;other=Some,annotations
+orf00233	prediction	CDS	90	119	.	+	0	Parent=orf00233
+##gff-version 3
+##sequence-region orf00235 1 580076
+orf00235	prediction	gene	221571	225904	10.0	+	.	ID=orf00235;other=Some,annotations
+orf00235	prediction	CDS	59	256	.	+	0	Parent=orf00235
+##gff-version 3
+##sequence-region orf00237 1 580076
+orf00237	prediction	gene	225907	229067	10.0	+	.	ID=orf00237;other=Some,annotations
+orf00237	prediction	CDS	36	137	.	+	0	Parent=orf00237
+##gff-version 3
+##sequence-region orf00238 1 580076
+orf00238	prediction	gene	229989	230482	10.0	+	.	ID=orf00238;other=Some,annotations
+orf00238	prediction	CDS	44	262	.	+	0	Parent=orf00238
+##gff-version 3
+##sequence-region orf00239 1 580076
+orf00239	prediction	gene	230631	231370	10.0	+	.	ID=orf00239;other=Some,annotations
+orf00239	prediction	CDS	29	100	.	+	0	Parent=orf00239
+##gff-version 3
+##sequence-region orf00240 1 580076
+orf00240	prediction	gene	232010	233034	10.0	+	.	ID=orf00240;other=Some,annotations
+orf00240	prediction	CDS	23	40	.	+	0	Parent=orf00240
+##gff-version 3
+##sequence-region orf00242 1 580076
+orf00242	prediction	gene	233039	235458	10.0	+	.	ID=orf00242;other=Some,annotations
+orf00242	prediction	CDS	132	158	.	+	0	Parent=orf00242
+##gff-version 3
+##sequence-region orf00245 1 580076
+orf00245	prediction	gene	237348	239152	10.0	+	.	ID=orf00245;other=Some,annotations
+orf00245	prediction	CDS	99	137	.	+	0	Parent=orf00245
+##gff-version 3
+##sequence-region orf00246 1 580076
+orf00246	prediction	gene	239165	239817	10.0	+	.	ID=orf00246;other=Some,annotations
+orf00246	prediction	CDS	163	273	.	+	0	Parent=orf00246
+##gff-version 3
+##sequence-region orf00247 1 580076
+orf00247	prediction	gene	240324	242224	10.0	+	.	ID=orf00247;other=Some,annotations
+orf00247	prediction	CDS	12	26	.	+	0	Parent=orf00247
+##gff-version 3
+##sequence-region orf00248 1 580076
+orf00248	prediction	gene	242225	244569	10.0	+	.	ID=orf00248;other=Some,annotations
+orf00248	prediction	CDS	78	80	.	+	0	Parent=orf00248
+##gff-version 3
+##sequence-region orf00250 1 580076
+orf00250	prediction	gene	245634	247426	10.0	+	.	ID=orf00250;other=Some,annotations
+orf00250	prediction	CDS	329	337	.	+	0	Parent=orf00250
+##gff-version 3
+##sequence-region orf00253 1 580076
+orf00253	prediction	gene	250150	250808	10.0	+	.	ID=orf00253;other=Some,annotations
+orf00253	prediction	CDS	48	125	.	+	0	Parent=orf00253
+##gff-version 3
+##sequence-region orf00254 1 580076
+orf00254	prediction	gene	251041	251441	10.0	+	.	ID=orf00254;other=Some,annotations
+orf00254	prediction	CDS	289	294	.	+	0	Parent=orf00254
+##gff-version 3
+##sequence-region orf00256 1 580076
+orf00256	prediction	gene	251782	252587	10.0	+	.	ID=orf00256;other=Some,annotations
+orf00256	prediction	CDS	46	144	.	+	0	Parent=orf00256
+##gff-version 3
+##sequence-region orf00258 1 580076
+orf00258	prediction	gene	252581	253995	10.0	+	.	ID=orf00258;other=Some,annotations
+orf00258	prediction	CDS	222	254	.	+	0	Parent=orf00258
+##gff-version 3
+##sequence-region orf00259 1 580076
+orf00259	prediction	gene	253980	254602	10.0	+	.	ID=orf00259;other=Some,annotations
+orf00259	prediction	CDS	29	85	.	+	0	Parent=orf00259
+##gff-version 3
+##sequence-region orf00260 1 580076
+orf00260	prediction	gene	254622	255592	10.0	+	.	ID=orf00260;other=Some,annotations
+orf00260	prediction	CDS	241	390	.	+	0	Parent=orf00260
+##gff-version 3
+##sequence-region orf00261 1 580076
+orf00261	prediction	gene	255596	257121	10.0	+	.	ID=orf00261;other=Some,annotations
+orf00261	prediction	CDS	35	709	.	+	0	Parent=orf00261
+##gff-version 3
+##sequence-region orf00262 1 580076
+orf00262	prediction	gene	258042	259159	10.0	+	.	ID=orf00262;other=Some,annotations
+orf00262	prediction	CDS	78	506	.	+	0	Parent=orf00262
+##gff-version 3
+##sequence-region orf00265 1 580076
+orf00265	prediction	gene	259178	264594	10.0	+	.	ID=orf00265;other=Some,annotations
+orf00265	prediction	CDS	355	372	.	+	0	Parent=orf00265
+##gff-version 3
+##sequence-region orf00267 1 580076
+orf00267	prediction	gene	264598	265637	10.0	+	.	ID=orf00267;other=Some,annotations
+orf00267	prediction	CDS	149	184	.	+	0	Parent=orf00267
+##gff-version 3
+##sequence-region orf00268 1 580076
+orf00268	prediction	gene	265631	266043	10.0	+	.	ID=orf00268;other=Some,annotations
+orf00268	prediction	CDS	80	277	.	+	0	Parent=orf00268
+##gff-version 3
+##sequence-region orf00271 1 580076
+orf00271	prediction	gene	267127	268010	10.0	+	.	ID=orf00271;other=Some,annotations
+orf00271	prediction	CDS	362	460	.	+	0	Parent=orf00271
+##gff-version 3
+##sequence-region orf00272 1 580076
+orf00272	prediction	gene	267980	269247	10.0	+	.	ID=orf00272;other=Some,annotations
+orf00272	prediction	CDS	36	50	.	+	0	Parent=orf00272
+##gff-version 3
+##sequence-region orf00273 1 580076
+orf00273	prediction	gene	269251	270359	10.0	+	.	ID=orf00273;other=Some,annotations
+orf00273	prediction	CDS	169	252	.	+	0	Parent=orf00273
+##gff-version 3
+##sequence-region orf00274 1 580076
+orf00274	prediction	gene	270406	271874	10.0	+	.	ID=orf00274;other=Some,annotations
+orf00274	prediction	CDS	40	216	.	+	0	Parent=orf00274
+##gff-version 3
+##sequence-region orf00276 1 580076
+orf00276	prediction	gene	271940	273318	10.0	+	.	ID=orf00276;other=Some,annotations
+orf00276	prediction	CDS	155	205	.	+	0	Parent=orf00276
+##gff-version 3
+##sequence-region orf00278 1 580076
+orf00278	prediction	gene	273791	274653	10.0	+	.	ID=orf00278;other=Some,annotations
+orf00278	prediction	CDS	62	103	.	+	0	Parent=orf00278
+##gff-version 3
+##sequence-region orf00279 1 580076
+orf00279	prediction	gene	274882	275135	10.0	+	.	ID=orf00279;other=Some,annotations
+orf00279	prediction	CDS	39	68	.	+	0	Parent=orf00279
+##gff-version 3
+##sequence-region orf00280 1 580076
+orf00280	prediction	gene	275142	276163	10.0	+	.	ID=orf00280;other=Some,annotations
+orf00280	prediction	CDS	21	137	.	+	0	Parent=orf00280
+##gff-version 3
+##sequence-region orf00281 1 580076
+orf00281	prediction	gene	276648	278812	10.0	+	.	ID=orf00281;other=Some,annotations
+orf00281	prediction	CDS	23	307	.	+	0	Parent=orf00281
+##gff-version 3
+##sequence-region orf00282 1 580076
+orf00282	prediction	gene	279800	280674	10.0	+	.	ID=orf00282;other=Some,annotations
+orf00282	prediction	CDS	10	42	.	+	0	Parent=orf00282
+##gff-version 3
+##sequence-region orf00283 1 580076
+orf00283	prediction	gene	281080	281963	10.0	+	.	ID=orf00283;other=Some,annotations
+orf00283	prediction	CDS	73	93	.	+	0	Parent=orf00283
+##gff-version 3
+##sequence-region orf00284 1 580076
+orf00284	prediction	gene	281994	283327	10.0	+	.	ID=orf00284;other=Some,annotations
+orf00284	prediction	CDS	9	62	.	+	0	Parent=orf00284
+##gff-version 3
+##sequence-region orf00285 1 580076
+orf00285	prediction	gene	283397	285783	10.0	+	.	ID=orf00285;other=Some,annotations
+orf00285	prediction	CDS	8	310	.	+	0	Parent=orf00285
+##gff-version 3
+##sequence-region orf00288 1 580076
+orf00288	prediction	gene	286886	288747	10.0	+	.	ID=orf00288;other=Some,annotations
+orf00288	prediction	CDS	35	76	.	+	0	Parent=orf00288
+##gff-version 3
+##sequence-region orf00289 1 580076
+orf00289	prediction	gene	288754	290645	10.0	+	.	ID=orf00289;other=Some,annotations
+orf00289	prediction	CDS	42	44	.	+	0	Parent=orf00289
+##gff-version 3
+##sequence-region orf00290 1 580076
+orf00290	prediction	gene	290649	291328	10.0	+	.	ID=orf00290;other=Some,annotations
+orf00290	prediction	CDS	112	210	.	+	0	Parent=orf00290
+##gff-version 3
+##sequence-region orf00291 1 580076
+orf00291	prediction	gene	291335	293445	10.0	+	.	ID=orf00291;other=Some,annotations
+orf00291	prediction	CDS	68	241	.	+	0	Parent=orf00291
+##gff-version 3
+##sequence-region orf00292 1 580076
+orf00292	prediction	gene	293449	293945	10.0	+	.	ID=orf00292;other=Some,annotations
+orf00292	prediction	CDS	147	149	.	+	0	Parent=orf00292
+##gff-version 3
+##sequence-region orf00294 1 580076
+orf00294	prediction	gene	293939	294783	10.0	+	.	ID=orf00294;other=Some,annotations
+orf00294	prediction	CDS	131	325	.	+	0	Parent=orf00294
+##gff-version 3
+##sequence-region orf00306 1 580076
+orf00306	prediction	gene	305002	306098	10.0	+	.	ID=orf00306;other=Some,annotations
+orf00306	prediction	CDS	161	181	.	+	0	Parent=orf00306
+##gff-version 3
+##sequence-region orf00308 1 580076
+orf00308	prediction	gene	306822	307591	10.0	+	.	ID=orf00308;other=Some,annotations
+orf00308	prediction	CDS	72	92	.	+	0	Parent=orf00308
+##gff-version 3
+##sequence-region orf00311 1 580076
+orf00311	prediction	gene	307931	309009	10.0	+	.	ID=orf00311;other=Some,annotations
+orf00311	prediction	CDS	50	151	.	+	0	Parent=orf00311
+##gff-version 3
+##sequence-region orf00313 1 580076
+orf00313	prediction	gene	309011	310380	10.0	+	.	ID=orf00313;other=Some,annotations
+orf00313	prediction	CDS	39	110	.	+	0	Parent=orf00313
+##gff-version 3
+##sequence-region orf00315 1 580076
+orf00315	prediction	gene	310989	312808	10.0	+	.	ID=orf00315;other=Some,annotations
+orf00315	prediction	CDS	22	318	.	+	0	Parent=orf00315
+##gff-version 3
+##sequence-region orf00316 1 580076
+orf00316	prediction	gene	313368	313879	10.0	+	.	ID=orf00316;other=Some,annotations
+orf00316	prediction	CDS	44	190	.	+	0	Parent=orf00316
+##gff-version 3
+##sequence-region orf00317 1 580076
+orf00317	prediction	gene	314205	315232	10.0	+	.	ID=orf00317;other=Some,annotations
+orf00317	prediction	CDS	29	211	.	+	0	Parent=orf00317
+##gff-version 3
+##sequence-region orf00320 1 580076
+orf00320	prediction	gene	315702	318325	10.0	+	.	ID=orf00320;other=Some,annotations
+orf00320	prediction	CDS	13	21	.	+	0	Parent=orf00320
+##gff-version 3
+##sequence-region orf00321 1 580076
+orf00321	prediction	gene	318333	319207	10.0	+	.	ID=orf00321;other=Some,annotations
+orf00321	prediction	CDS	39	143	.	+	0	Parent=orf00321
+##gff-version 3
+##sequence-region orf00322 1 580076
+orf00322	prediction	gene	319208	320061	10.0	+	.	ID=orf00322;other=Some,annotations
+orf00322	prediction	CDS	23	118	.	+	0	Parent=orf00322
+##gff-version 3
+##sequence-region orf00323 1 580076
+orf00323	prediction	gene	320178	321052	10.0	+	.	ID=orf00323;other=Some,annotations
+orf00323	prediction	CDS	41	70	.	+	0	Parent=orf00323
+##gff-version 3
+##sequence-region orf00341 1 580076
+orf00341	prediction	gene	338368	340529	10.0	+	.	ID=orf00341;other=Some,annotations
+orf00341	prediction	CDS	56	73	.	+	0	Parent=orf00341
+##gff-version 3
+##sequence-region orf00346 1 580076
+orf00346	prediction	gene	345032	345165	10.0	+	.	ID=orf00346;other=Some,annotations
+orf00346	prediction	CDS	76	135	.	+	0	Parent=orf00346
+##gff-version 3
+##sequence-region orf00347 1 580076
+orf00347	prediction	gene	345183	346633	10.0	+	.	ID=orf00347;other=Some,annotations
+orf00347	prediction	CDS	86	169	.	+	0	Parent=orf00347
+##gff-version 3
+##sequence-region orf00348 1 580076
+orf00348	prediction	gene	347216	348258	10.0	+	.	ID=orf00348;other=Some,annotations
+orf00348	prediction	CDS	19	72	.	+	0	Parent=orf00348
+##gff-version 3
+##sequence-region orf00349 1 580076
+orf00349	prediction	gene	348262	348851	10.0	+	.	ID=orf00349;other=Some,annotations
+orf00349	prediction	CDS	92	298	.	+	0	Parent=orf00349
+##gff-version 3
+##sequence-region orf00352 1 580076
+orf00352	prediction	gene	349798	350327	10.0	+	.	ID=orf00352;other=Some,annotations
+orf00352	prediction	CDS	41	274	.	+	0	Parent=orf00352
+##gff-version 3
+##sequence-region orf00353 1 580076
+orf00353	prediction	gene	350453	351825	10.0	+	.	ID=orf00353;other=Some,annotations
+orf00353	prediction	CDS	102	104	.	+	0	Parent=orf00353
+##gff-version 3
+##sequence-region orf00357 1 580076
+orf00357	prediction	gene	354061	355130	10.0	+	.	ID=orf00357;other=Some,annotations
+orf00357	prediction	CDS	28	84	.	+	0	Parent=orf00357
+##gff-version 3
+##sequence-region orf00358 1 580076
+orf00358	prediction	gene	355121	355857	10.0	+	.	ID=orf00358;other=Some,annotations
+orf00358	prediction	CDS	45	71	.	+	0	Parent=orf00358
+##gff-version 3
+##sequence-region orf00360 1 580076
+orf00360	prediction	gene	355848	357478	10.0	+	.	ID=orf00360;other=Some,annotations
+orf00360	prediction	CDS	102	155	.	+	0	Parent=orf00360
+##gff-version 3
+##sequence-region orf00386 1 580076
+orf00386	prediction	gene	386464	387269	10.0	+	.	ID=orf00386;other=Some,annotations
+orf00386	prediction	CDS	86	202	.	+	0	Parent=orf00386
+##gff-version 3
+##sequence-region orf00396 1 580076
+orf00396	prediction	gene	397594	398297	10.0	+	.	ID=orf00396;other=Some,annotations
+orf00396	prediction	CDS	404	526	.	+	0	Parent=orf00396
+##gff-version 3
+##sequence-region orf00403 1 580076
+orf00403	prediction	gene	405457	406139	10.0	+	.	ID=orf00403;other=Some,annotations
+orf00403	prediction	CDS	85	96	.	+	0	Parent=orf00403
+##gff-version 3
+##sequence-region orf00418 1 580076
+orf00418	prediction	gene	420334	421358	10.0	+	.	ID=orf00418;other=Some,annotations
+orf00418	prediction	CDS	33	101	.	+	0	Parent=orf00418
+##gff-version 3
+##sequence-region orf00420 1 580076
+orf00420	prediction	gene	421582	422693	10.0	+	.	ID=orf00420;other=Some,annotations
+orf00420	prediction	CDS	24	65	.	+	0	Parent=orf00420
+##gff-version 3
+##sequence-region orf00421 1 580076
+orf00421	prediction	gene	422698	423113	10.0	+	.	ID=orf00421;other=Some,annotations
+orf00421	prediction	CDS	51	80	.	+	0	Parent=orf00421
+##gff-version 3
+##sequence-region orf00424 1 580076
+orf00424	prediction	gene	428326	429662	10.0	+	.	ID=orf00424;other=Some,annotations
+orf00424	prediction	CDS	8	76	.	+	0	Parent=orf00424
+##gff-version 3
+##sequence-region orf00434 1 580076
+orf00434	prediction	gene	444064	444422	10.0	+	.	ID=orf00434;other=Some,annotations
+orf00434	prediction	CDS	70	132	.	+	0	Parent=orf00434
+##gff-version 3
+##sequence-region orf00435 1 580076
+orf00435	prediction	gene	444414	445045	10.0	+	.	ID=orf00435;other=Some,annotations
+orf00435	prediction	CDS	83	94	.	+	0	Parent=orf00435
+##gff-version 3
+##sequence-region orf00437 1 580076
+orf00437	prediction	gene	446577	447790	10.0	+	.	ID=orf00437;other=Some,annotations
+orf00437	prediction	CDS	18	65	.	+	0	Parent=orf00437
+##gff-version 3
+##sequence-region orf00438 1 580076
+orf00438	prediction	gene	447791	448725	10.0	+	.	ID=orf00438;other=Some,annotations
+orf00438	prediction	CDS	97	123	.	+	0	Parent=orf00438
+##gff-version 3
+##sequence-region orf00440 1 580076
+orf00440	prediction	gene	449666	450219	10.0	+	.	ID=orf00440;other=Some,annotations
+orf00440	prediction	CDS	132	140	.	+	0	Parent=orf00440
+##gff-version 3
+##sequence-region orf00441 1 580076
+orf00441	prediction	gene	450223	450722	10.0	+	.	ID=orf00441;other=Some,annotations
+orf00441	prediction	CDS	100	168	.	+	0	Parent=orf00441
+##gff-version 3
+##sequence-region orf00442 1 580076
+orf00442	prediction	gene	451198	451610	10.0	+	.	ID=orf00442;other=Some,annotations
+orf00442	prediction	CDS	56	217	.	+	0	Parent=orf00442
+##gff-version 3
+##sequence-region orf00448 1 580076
+orf00448	prediction	gene	456056	456264	10.0	+	.	ID=orf00448;other=Some,annotations
+orf00448	prediction	CDS	60	158	.	+	0	Parent=orf00448
+##gff-version 3
+##sequence-region orf00450 1 580076
+orf00450	prediction	gene	456591	457372	10.0	+	.	ID=orf00450;other=Some,annotations
+orf00450	prediction	CDS	81	95	.	+	0	Parent=orf00450
+##gff-version 3
+##sequence-region orf00451 1 580076
+orf00451	prediction	gene	457348	458270	10.0	+	.	ID=orf00451;other=Some,annotations
+orf00451	prediction	CDS	7	114	.	+	0	Parent=orf00451
+##gff-version 3
+##sequence-region orf00453 1 580076
+orf00453	prediction	gene	459712	460103	10.0	+	.	ID=orf00453;other=Some,annotations
+orf00453	prediction	CDS	274	393	.	+	0	Parent=orf00453
+##gff-version 3
+##sequence-region orf00454 1 580076
+orf00454	prediction	gene	460127	460494	10.0	+	.	ID=orf00454;other=Some,annotations
+orf00454	prediction	CDS	140	271	.	+	0	Parent=orf00454
+##gff-version 3
+##sequence-region orf00457 1 580076
+orf00457	prediction	gene	461016	461689	10.0	+	.	ID=orf00457;other=Some,annotations
+orf00457	prediction	CDS	241	243	.	+	0	Parent=orf00457
+##gff-version 3
+##sequence-region orf00458 1 580076
+orf00458	prediction	gene	461683	462617	10.0	+	.	ID=orf00458;other=Some,annotations
+orf00458	prediction	CDS	23	226	.	+	0	Parent=orf00458
+##gff-version 3
+##sequence-region orf00459 1 580076
+orf00459	prediction	gene	462620	464622	10.0	+	.	ID=orf00459;other=Some,annotations
+orf00459	prediction	CDS	5	46	.	+	0	Parent=orf00459
+##gff-version 3
+##sequence-region orf00472 1 580076
+orf00472	prediction	gene	477211	479006	10.0	+	.	ID=orf00472;other=Some,annotations
+orf00472	prediction	CDS	122	190	.	+	0	Parent=orf00472
+##gff-version 3
+##sequence-region orf00473 1 580076
+orf00473	prediction	gene	479000	479577	10.0	+	.	ID=orf00473;other=Some,annotations
+orf00473	prediction	CDS	337	345	.	+	0	Parent=orf00473
+##gff-version 3
+##sequence-region orf00474 1 580076
+orf00474	prediction	gene	479571	480226	10.0	+	.	ID=orf00474;other=Some,annotations
+orf00474	prediction	CDS	32	37	.	+	0	Parent=orf00474
+##gff-version 3
+##sequence-region orf00476 1 580076
+orf00476	prediction	gene	480692	481332	10.0	+	.	ID=orf00476;other=Some,annotations
+orf00476	prediction	CDS	56	94	.	+	0	Parent=orf00476
+##gff-version 3
+##sequence-region orf00496 1 580076
+orf00496	prediction	gene	500052	500185	10.0	+	.	ID=orf00496;other=Some,annotations
+orf00496	prediction	CDS	59	85	.	+	0	Parent=orf00496
+##gff-version 3
+##sequence-region orf00511 1 580076
+orf00511	prediction	gene	509199	509470	10.0	+	.	ID=orf00511;other=Some,annotations
+orf00511	prediction	CDS	185	238	.	+	0	Parent=orf00511
+##gff-version 3
+##sequence-region orf00513 1 580076
+orf00513	prediction	gene	510904	511376	10.0	+	.	ID=orf00513;other=Some,annotations
+orf00513	prediction	CDS	143	202	.	+	0	Parent=orf00513
+##gff-version 3
+##sequence-region orf00530 1 580076
+orf00530	prediction	gene	531670	533018	10.0	+	.	ID=orf00530;other=Some,annotations
+orf00530	prediction	CDS	328	363	.	+	0	Parent=orf00530
+##gff-version 3
+##sequence-region orf00532 1 580076
+orf00532	prediction	gene	533272	533696	10.0	+	.	ID=orf00532;other=Some,annotations
+orf00532	prediction	CDS	12	17	.	+	0	Parent=orf00532
+##gff-version 3
+##sequence-region orf00533 1 580076
+orf00533	prediction	gene	534030	534322	10.0	+	.	ID=orf00533;other=Some,annotations
+orf00533	prediction	CDS	36	107	.	+	0	Parent=orf00533
+##gff-version 3
+##sequence-region orf00539 1 580076
+orf00539	prediction	gene	539634	540529	10.0	+	.	ID=orf00539;other=Some,annotations
+orf00539	prediction	CDS	199	237	.	+	0	Parent=orf00539
+##gff-version 3
+##sequence-region orf00540 1 580076
+orf00540	prediction	gene	540511	541241	10.0	+	.	ID=orf00540;other=Some,annotations
+orf00540	prediction	CDS	216	236	.	+	0	Parent=orf00540
+##gff-version 3
+##sequence-region orf00541 1 580076
+orf00541	prediction	gene	541242	541792	10.0	+	.	ID=orf00541;other=Some,annotations
+orf00541	prediction	CDS	15	17	.	+	0	Parent=orf00541
+##gff-version 3
+##sequence-region orf00543 1 580076
+orf00543	prediction	gene	541794	542986	10.0	+	.	ID=orf00543;other=Some,annotations
+orf00543	prediction	CDS	176	433	.	+	0	Parent=orf00543
+##gff-version 3
+##sequence-region orf00544 1 580076
+orf00544	prediction	gene	543007	544157	10.0	+	.	ID=orf00544;other=Some,annotations
+orf00544	prediction	CDS	104	208	.	+	0	Parent=orf00544
+##gff-version 3
+##sequence-region orf00560 1 580076
+orf00560	prediction	gene	555668	556452	10.0	+	.	ID=orf00560;other=Some,annotations
+orf00560	prediction	CDS	79	204	.	+	0	Parent=orf00560
+##gff-version 3
+##sequence-region orf00562 1 580076
+orf00562	prediction	gene	556438	557315	10.0	+	.	ID=orf00562;other=Some,annotations
+orf00562	prediction	CDS	55	198	.	+	0	Parent=orf00562
+##gff-version 3
+##sequence-region orf00564 1 580076
+orf00564	prediction	gene	557727	558949	10.0	+	.	ID=orf00564;other=Some,annotations
+orf00564	prediction	CDS	169	180	.	+	0	Parent=orf00564
+##gff-version 3
+##sequence-region orf00572 1 580076
+orf00572	prediction	gene	563994	564931	10.0	+	.	ID=orf00572;other=Some,annotations
+orf00572	prediction	CDS	44	133	.	+	0	Parent=orf00572
